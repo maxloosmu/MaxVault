@@ -7,6 +7,7 @@ os.chdir(path)
 
 def read_text_file(file_path):
   file_tags = []
+  sorted_tags = []
   with open(file_path, 'r') as f:
     for line in f:
       first_split = line.split()
@@ -17,6 +18,7 @@ def read_text_file(file_path):
           tag = first_in_line.split("#")[1]
           if not not tag:
             file_tags.append(tag)
+    file_tags.sort()
     f.close()
   return file_tags
 
@@ -37,6 +39,6 @@ with open(write_path, 'w') as f:
         file_name = file[:-3]
         f.write(f"- [{file_name}]({github_url})\n")
         file_path = f"{path}/{file}"
-        file_tags = ', '.join(read_text_file(file_path))
-        f.write(f"    - {file_tags}\n")
+        sorted_tags = ', '.join(read_text_file(file_path))
+        f.write(f"    - {sorted_tags}\n")
   f.close()
