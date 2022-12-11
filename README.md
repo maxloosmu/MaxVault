@@ -22,8 +22,6 @@
 
 [Progress is Only Evolution in Disguise, Rooted in Reproduction. Reflections as a Disabled Christian and Responsible Democrat](https://github.com/maxloosmu/MaxVault/blob/main/Progress%20is%20Only%20Evolution%20in%20Disguise,%20Rooted%20in%20Reproduction.%20Reflections%20as%20a%20Disabled%20Christian%20and%20Responsible%20Democrat.md)
 
-[README](https://github.com/maxloosmu/MaxVault/blob/main/README.md)
-
 [Self Evaluation Around the Power of Purpose Based on the Book Thriving on Overload](https://github.com/maxloosmu/MaxVault/blob/main/Self%20Evaluation%20Around%20the%20Power%20of%20Purpose%20Based%20on%20the%20Book%20Thriving%20on%20Overload.md)
 
 [Singapore, The Myth of the Sustainable City with Global Overpopulation and Lack of International Cooperation](https://github.com/maxloosmu/MaxVault/blob/main/Singapore,%20The%20Myth%20of%20the%20Sustainable%20City%20with%20Global%20Overpopulation%20and%20Lack%20of%20International%20Cooperation.md)
