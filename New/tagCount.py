@@ -8,7 +8,8 @@ os.chdir(path)
 mylist = []
 myset = set()
 mydict = {}
-newdict = {}
+newdict1 = {}
+newdict2 = {}
 
 def read_text_file(file_path):
   with open(file_path, 'r') as f:
@@ -31,12 +32,13 @@ for file in os.listdir():
 
 for val in myset:
   mydict[val] = mylist.count(val)
-  newdict = dict(sorted(mydict.items(), key=lambda item: item[1], reverse=True))
+  newdict1 = dict(sorted(mydict.items(), key=lambda item: item[0]))
+  newdict2 = dict(sorted(newdict1.items(), key=lambda item: item[1], reverse=True))
 
-print(newdict)
+print(newdict2)
 with open(write_path, 'w') as f:
   f.close()
 with open(write_path, 'a') as f:
-  for key in newdict:
-    f.write(f"{key}: {newdict[key]}\n")
+  for key in newdict2:
+    f.write(f"{key}: {newdict2[key]}\n")
   f.close()
