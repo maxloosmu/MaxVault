@@ -1,5 +1,5 @@
 singapore, sustainability, city, population
-#singapore
+#Singapore
 #sustainability
 #geopolitics
 #population
