@@ -1,4 +1,5 @@
 #!/bin/bash
+# bash z.txt
 # Rename all *.txt to *.md
 for file in *.txt; do 
     mv -- "$file" "${file%.txt}.md"
