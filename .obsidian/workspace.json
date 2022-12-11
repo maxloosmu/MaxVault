@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "19320599b4bfd2f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "addb3d8863161d87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7f594abd36d7925",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92f4cec1230fe611",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6e4b98fc5b973ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5461e8922a6b5bfb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "c6916db3311192c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#purpose",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20703a02df6fddf7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7b8d1b59ec286f68",
+    "type": "split",
+    "children": [
+      {
+        "id": "0889e8811e882e31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe68ce77fd478337",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f889ddb9c20c4db3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4db87ea80f251bce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7367279b4ae7100a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5461e8922a6b5bfb",
+  "lastOpenFiles": [
+    "What Did School Not Teach Me - Reflections Upon Reading a Book.md",
+    "Are we starved of time everyday, What we can do about it.  Time, Gratitude, Satisfaction, Contentment, Purpose.md",
+    "Applying Some Basic Minimalism in my Life.md",
+    "Self Evaluation Around the Power of Purpose Based on the Book Thriving on Overload.md",
+    "Determining my Current Values.md",
+    "Learning to Ultralearn - Metalearning.md",
+    "Learning to Build a Second Brain to Organise My Digital Life.md",
+    "Some Distilled Notes About How to Learn Fast and Acquire Skills, With an Example Application of Web Development.md",
+    "Analysing my Strengths.md",
+    "Learning the Skill of Creativity with Systematic Inventive Thinking (SIT) and Then Analysing its Applicability in Programming.md"
+  ]
+}

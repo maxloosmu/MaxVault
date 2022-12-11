@@ -1,0 +1,21 @@
+self improvement, learning
+#self-improvement 
+#learning 
+
+Based on the book "Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career", ultralearning is a self-directed and intense approach or strategy to effectively acquire skills and knowledge.  There are nine principles behind the ultralearning approach: metalearning, focus, directness, drill, retrieval, feedback, retention, intuition, and experimentation.  
+
+In metalearning, a map of the subject we are trying to learn is drawn based on the kinds of skills and knowledge that must be mastered.  This is about doing research for our ultralearning project, which can be broken down into three questions: Why, What, and How.  
+
+The question "Why are we learning?" narrows the efforts of learning to focus on what matters most to us.  There are two broad motivations behind our learning: instrumental and instrinsic.  If the motivation is instrumental, we are likely learning for our career, and so will have to first determine through research if learning the subject to be learnt will contribute to an improvement in our career.  The research may include interviewing others who have expertise on the subject.  If the learning is intrinsic, then we are just learning for the subject's own sake, and not as a means to some other outcome.  However, we may still have to assess our study plan based on our own goals.  
+
+The question "What are we learning?" breaks down the subject knowledge and abilities we are trying to learn into a list of concepts, facts and procedures to identify the learning obstacles and find solutions.  Concepts are ideas that need to be understood in flexible ways to be useful, not just memorised.  Facts are to be memorised.  Procedures are actions that need to be performed or practised, and may not require much conscious thinking.  Depending on the skill, our learning may require all three facets, or just one or two facets will be enough.  This list is progressively updated throughout our learning process.  
+
+The question "How do we learn?" refers to the resources, environment and methods we choose to use to learn.  There are two main approaches here: benchmarking and the emphasise/exclude method.  Benchmarking is done by referring to existing curricula taught in courses.  Good online resources can be found from these courses, such as those from MIT, Harvard, Yale or Stanford.  The time invested here will be worthwhile in finding quality learning materials.  The emphasis/exclude method is just about modifying the content in the curricula we find to suit our learning goals and objectives.  This approach is not recommended when the subject to be learnt is too conceptual, such that we may not even understand the terms used in the syllabus.  
+
+The research and planning for our ultralearning project should not be overdone, such that we procrastinate on the actual learning itself.  A good balance between insufficient research and analysis paralysis should be found based on the 10 percent rule and the diminishing returns and marginal benefit calculation.  The 10 percent rule simply allocates 5% to 10% of our learning time to research, and is done to avoid grabbing the first learning resource that comes our way without considering the alternatives.  The diminishing returns and marginal benefit calculation is an estimation of the returns and marginal benefits from doing research, which will reduce as more research is done.  When we feel that doing extra research is not helpful anymore, we will have to start the learning process.  
+
+
+
+
+
+
