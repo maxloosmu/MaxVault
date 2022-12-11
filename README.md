@@ -1,40 +1,43 @@
 ### Tag: Count
 - self-improvement: 8
-- self-discovery: 6
+- self-discovery: 7
+- life: 5
 - work: 5
-- life: 4
-- purpose: 4
-- time-management: 3
-- Singapore: 3
-- learning: 3
+- purpose: 5
 - web-development: 3
-- creativity: 3
+- learning: 3
+- time-management: 3
 - innovation: 3
+- creativity: 3
+- Singapore: 3
+- : 2
+- christianity: 2
 - values: 2
-- contentment: 2
 - programming: 2
+- contentment: 2
 - technology: 2
 - skills: 2
-- christianity: 2
 - education: 1
-- jobs: 1
-- mental-health: 1
-- problem-solving: 1
-- sustainability: 1
-- society: 1
-- insight: 1
-- success-factors: 1
-- note-taking: 1
-- religion: 1
-- research: 1
-- career: 1
-- geopolitics: 1
 - law: 1
-- strengths: 1
-- population: 1
-- memory: 1
-- decluttering: 1
+- research: 1
 - politics: 1
+- religion: 1
+- mental-health: 1
+- git: 1
+- frameworks: 1
+- geopolitics: 1
+- jobs: 1
+- success-factors: 1
+- strengths: 1
+- society: 1
+- memory: 1
+- sustainability: 1
+- insight: 1
+- population: 1
+- decluttering: 1
+- career: 1
+- problem-solving: 1
+- note-taking: 1
 
 ### Blog Posts
 - [6 Attributes for Success and How They Relate to Me](https://github.com/maxloosmu/MaxVault/blob/main/6%20Attributes%20for%20Success%20and%20How%20They%20Relate%20to%20Me.md)
@@ -50,6 +53,7 @@
 - [Learning to Ultralearn - Metalearning](https://github.com/maxloosmu/MaxVault/blob/main/Learning%20to%20Ultralearn%20-%20Metalearning.md)
 - [Progress is Only Evolution in Disguise, Rooted in Reproduction. Reflections as a Disabled Christian and Responsible Democrat](https://github.com/maxloosmu/MaxVault/blob/main/Progress%20is%20Only%20Evolution%20in%20Disguise,%20Rooted%20in%20Reproduction.%20Reflections%20as%20a%20Disabled%20Christian%20and%20Responsible%20Democrat.md)
 - [Self Evaluation Around the Power of Purpose Based on the Book Thriving on Overload](https://github.com/maxloosmu/MaxVault/blob/main/Self%20Evaluation%20Around%20the%20Power%20of%20Purpose%20Based%20on%20the%20Book%20Thriving%20on%20Overload.md)
+- [Self Evaluation Using The Power of Framing](https://github.com/maxloosmu/MaxVault/blob/main/Self%20Evaluation%20Using%20The%20Power%20of%20Framing.md)
 - [Singapore, The Myth of the Sustainable City with Global Overpopulation and Lack of International Cooperation](https://github.com/maxloosmu/MaxVault/blob/main/Singapore,%20The%20Myth%20of%20the%20Sustainable%20City%20with%20Global%20Overpopulation%20and%20Lack%20of%20International%20Cooperation.md)
 - [Skills Building, My Progress as of Aug 2022](https://github.com/maxloosmu/MaxVault/blob/main/Skills%20Building,%20My%20Progress%20as%20of%20Aug%202022.md)
 - [Some Distilled Notes About How to Learn Fast and Acquire Skills, With an Example Application of Web Development](https://github.com/maxloosmu/MaxVault/blob/main/Some%20Distilled%20Notes%20About%20How%20to%20Learn%20Fast%20and%20Acquire%20Skills,%20With%20an%20Example%20Application%20of%20Web%20Development.md)
