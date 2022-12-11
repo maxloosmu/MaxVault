@@ -1,6 +1,7 @@
-law, information security, data protection, intellectual property
 #law
 #technology 
+
+## Gridlock on the Rights of Information Access
 
 Referencing this paper:
 https://ideas.repec.org/h/spr/perchp/978-981-13-6086-2_7.html

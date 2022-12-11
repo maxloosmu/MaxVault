@@ -1,10 +1,10 @@
-
-life, population, singapore, politics, christianity
 #life
 #society
 #Singapore
 #politics
 #christianity
+
+## Progress is Only Evolution in Disguise, Rooted in Reproduction. Reflections as a Disabled Christian and Responsible Democrat
 
 I'll write about the essentials of life in general in this post.  It's my contemplation on the nature of the overpopulation problem, which I perceive is the root cause of most of our problems in the world today.  
 

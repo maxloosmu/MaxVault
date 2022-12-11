@@ -1,6 +1,7 @@
-self improvement, learning
 #self-improvement 
 #learning 
+
+## Learning to Ultralearn - Metalearning
 
 Based on the book "Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career", ultralearning is a self-directed and intense approach or strategy to effectively acquire skills and knowledge.  There are nine principles behind the ultralearning approach: metalearning, focus, directness, drill, retrieval, feedback, retention, intuition, and experimentation.  
 

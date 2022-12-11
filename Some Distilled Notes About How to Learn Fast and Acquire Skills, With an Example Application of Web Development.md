@@ -1,9 +1,10 @@
-learning, skills, web development
 #learning 
 #self-improvement 
 #skills 
 #web-development 
 #programming 
+
+## Some Distilled Notes About How to Learn Fast and Acquire Skills, With an Example Application of Web Development
 
 Saying that we want to learn fast can be interpreted as saying we want to comprehend better and faster, and remember more.  The notes here lists all the ideas relevant to accomplishing that, but it must be noted based on personal experience that speed reading should be applied on information we can digest more easily due to familiarity and redundancy, or if we are searching and scanning for answers to questions in our minds.  When the ideas read are new or unique, or if there are relevant details, we should slow down and read with more care and attention.  
 

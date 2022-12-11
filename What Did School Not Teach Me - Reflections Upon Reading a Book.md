@@ -1,11 +1,13 @@
-self improvement, problem solving, focus, life
 #self-improvement 
 #innovation 
 #problem-solving
 #purpose 
+#focusing
 #memory
 #time-management 
 #work
+
+## What Did School Not Teach Me - Reflections Upon Reading a Book
 
 I've selectively read from the book "What School Doesn't Teach You" by Nihit Mohan to write this post.  My focus is on chapters 1, 3, 5 and 8.  
 

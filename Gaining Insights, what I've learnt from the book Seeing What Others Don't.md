@@ -1,12 +1,12 @@
-Gaining Insights, what I've learnt from the book "Seeing What Others Don't" with a brief example from the real estate sector and my programming experience
-
-life, christianity, insight, real estate, programming
 #life
 #christianity
 #insight
 #creativity
 #innovation
+#programming
 #self-improvement
+
+## Gaining Insights, what I've learnt from the book "Seeing What Others Don't" with a brief example from the real estate sector and my programming experience
 
 In life, we are often called to make less mistakes, to reduce errors in what we do.  This is relevant as individuals or in groups or organisations.  However, when we attempt to reduce errors and make less mistakes, such as through the Kaizen or Six Sigma frameworks, or a pursuit of holiness, we may become blind to alternative solutions, interpretations or outcomes.  Insights are reduced, which may affect our relevance or survival or performance, depending on the situation, because insights can change the way we do things or even our goals.  
 

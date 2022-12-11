@@ -1,9 +1,8 @@
-time management, work, life
 #time-management
 #work
 #self-improvement 
 
-Time Management and Prioritising based on My Current Work
+## Time Management and Prioritising based on My Current Work
 
 I write this referencing and adapting the content from the book "Thriving At Work: What School Doesn't Teach You (International Edition)" Chapter 28 "How to Manage Time and Prioritize Effectively".
 

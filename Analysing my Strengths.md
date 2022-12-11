@@ -1,6 +1,7 @@
-self-improvement, self-awareness
 #self-discovery 
 #strengths
+
+## Analysing my Strengths
 
 I'm doing this analysis based on a strengths determination exercise from the book "The Squiggly Career: Ditch the Ladder, Discover Opportunity, Design Your Career".  I did not follow the exercises completely, but I believe this should be sufficient for a good analysis of my strengths at work.  
 

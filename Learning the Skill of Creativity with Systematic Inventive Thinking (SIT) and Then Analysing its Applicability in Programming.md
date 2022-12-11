@@ -1,8 +1,9 @@
-innovation, creativity, programming, coding, web development
 #innovation 
 #creativity 
 #web-development 
 #programming
+
+## Learning the Skill of Creativity with Systematic Inventive Thinking (SIT) and Then Analysing its Applicability in Programming
 
 My understanding of SIT comes from reading the book “Inside the Box: A Proven System of Creativity for Breakthrough Results”.
 

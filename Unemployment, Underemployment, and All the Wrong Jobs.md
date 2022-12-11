@@ -1,10 +1,8 @@
-self improvement, business, life lessons, employment, careers
-#jobs
 #career
 #work 
 #self-discovery
 
-Unemployment, Underemployment, and All the Wrong Jobs
+## Unemployment, Underemployment, and All the Wrong Jobs
 
 For this post, I have to dig into my past. I’m hopeful that my shared experiences will provide some insight into the requirements of the jobs I’ve tried, benefiting career newbies or career changers.
 

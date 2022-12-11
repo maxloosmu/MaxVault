@@ -1,4 +1,3 @@
-life lessons, work, time management
 #time-management 
 #work 
 #self-improvement 
@@ -6,7 +5,7 @@ life lessons, work, time management
 #purpose
 #contentment
 
-Are we starved of time everyday?  What we can do about it.  
+## Are we starved of time everyday?  What we can do about it.  Time, Gratitude, Satisfaction, Contentment, Purpose
 
 "In studying how the world works we are studying how God works, and thereby learning what God is. In that spirit, we can interpret the search for knowledge as a form of worship and our discoveries as a revelation."
 

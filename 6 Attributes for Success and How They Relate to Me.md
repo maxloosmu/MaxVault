@@ -1,6 +1,9 @@
-life, success, web development
+#work 
 #web-development
 #success-factors
+#self-discovery 
+
+## 6 Attributes for Success and How They Relate to Me
 
 I did a quick self analysis based on a chapter in the book "The Earned Life.  Lose Regret, Choose Fulfillment".  Although I'm doing research into computational law now, I'm also learning more about web development now, so I'll use that for my analysis.  
 

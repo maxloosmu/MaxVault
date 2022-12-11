@@ -1,4 +1,3 @@
-research, singapore, mental health, technology, education
 #research
 #Singapore
 #mental-health
@@ -6,7 +5,7 @@ research, singapore, mental health, technology, education
 #education
 #religion
 
-A View of the Current State of Affairs in Research from a Disabled Singaporean Researcher
+## A View of the Current State of Affairs in Research from a Disabled Singaporean Researcher
 
 This is not a story about my past, but I must start by saying that I am disabled due to an attempted suicide attempt back in 2011 due to an untreated schizoaffective disorder. I’m currently taking medications for life to keep my mental health conditions in check. I am a Chinese male born in 1976 and graduated in 2001 from NTU with a Bachelors with Honours in EEE. My mental illness only surfaced in 2006, when I could not find solutions to my unemployed situation while doing an online MBA. However, I had been beset with meritocratic anxiety throughout my younger days in school with a skin picking disorder and other trivial addictions (gaming, sports) and habits because I do not have a good memory and have a tendency to be optimistic.
 

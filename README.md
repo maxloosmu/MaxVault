@@ -1,62 +1,81 @@
 ### Tag: Count
 - self-improvement: 8
-- self-discovery: 7
+- self-discovery: 8
+- work: 6
 - life: 5
-- work: 5
 - purpose: 5
-- web-development: 3
-- learning: 3
+- creativity: 3
 - time-management: 3
 - innovation: 3
-- creativity: 3
 - Singapore: 3
-- : 2
-- christianity: 2
-- values: 2
-- programming: 2
-- contentment: 2
+- web-development: 3
+- learning: 3
+- programming: 3
 - technology: 2
+- values: 2
 - skills: 2
+- christianity: 2
+- contentment: 2
+- decluttering: 1
+- problem-solving: 1
+- success-factors: 1
+- society: 1
+- mental-health: 1
+- frameworks: 1
+- focusing: 1
+- sustainability: 1
+- religion: 1
+- memory: 1
 - education: 1
-- law: 1
 - research: 1
 - politics: 1
-- religion: 1
-- mental-health: 1
-- git: 1
-- frameworks: 1
-- geopolitics: 1
-- jobs: 1
-- success-factors: 1
 - strengths: 1
-- society: 1
-- memory: 1
-- sustainability: 1
-- insight: 1
 - population: 1
-- decluttering: 1
+- law: 1
+- git: 1
+- insight: 1
 - career: 1
-- problem-solving: 1
+- geopolitics: 1
 - note-taking: 1
 
 ### Blog Posts
 - [6 Attributes for Success and How They Relate to Me](https://github.com/maxloosmu/MaxVault/blob/main/6%20Attributes%20for%20Success%20and%20How%20They%20Relate%20to%20Me.md)
+    - work, web-development, success-factors, self-discovery
 - [A View of the Current State of Affairs in Research from a Disabled](https://github.com/maxloosmu/MaxVault/blob/main/A%20View%20of%20the%20Current%20State%20of%20Affairs%20in%20Research%20from%20a%20Disabled.md)
+    - research, Singapore, mental-health, technology, education, religion
 - [Analysing my Strengths](https://github.com/maxloosmu/MaxVault/blob/main/Analysing%20my%20Strengths.md)
+    - self-discovery, strengths
 - [Applying Some Basic Minimalism in my Life](https://github.com/maxloosmu/MaxVault/blob/main/Applying%20Some%20Basic%20Minimalism%20in%20my%20Life.md)
+    - life, decluttering, purpose, values, contentment
 - [Are we starved of time everyday, What we can do about it.  Time, Gratitude, Satisfaction, Contentment, Purpose](https://github.com/maxloosmu/MaxVault/blob/main/Are%20we%20starved%20of%20time%20everyday,%20What%20we%20can%20do%20about%20it.%20Time,%20Gratitude,%20Satisfaction,%20Contentment,%20Purpose.md)
+    - time-management, work, self-improvement, self-discovery, purpose, contentment
 - [Determining my Current Values](https://github.com/maxloosmu/MaxVault/blob/main/Determining%20my%20Current%20Values.md)
+    - self-discovery, values
 - [Gaining Insights, what I've learnt from the book Seeing What Others Don't](https://github.com/maxloosmu/MaxVault/blob/main/Gaining%20Insights,%20what%20I've%20learnt%20from%20the%20book%20Seeing%20What%20Others%20Don't.md)
+    - life, christianity, insight, creativity, innovation, programming, self-improvement
 - [Gridlock on the Rights of Information Access](https://github.com/maxloosmu/MaxVault/blob/main/Gridlock%20on%20the%20Rights%20of%20Information%20Access.md)
+    - law, technology
 - [Learning the Skill of Creativity with Systematic Inventive Thinking (SIT) and Then Analysing its Applicability in Programming](https://github.com/maxloosmu/MaxVault/blob/main/Learning%20the%20Skill%20of%20Creativity%20with%20Systematic%20Inventive%20Thinking%20(SIT)%20and%20Then%20Analysing%20its%20Applicability%20in%20Programming.md)
+    - innovation, creativity, web-development, programming
 - [Learning to Build a Second Brain to Organise My Digital Life](https://github.com/maxloosmu/MaxVault/blob/main/Learning%20to%20Build%20a%20Second%20Brain%20to%20Organise%20My%20Digital%20Life.md)
+    - self-improvement, note-taking, creativity
 - [Learning to Ultralearn - Metalearning](https://github.com/maxloosmu/MaxVault/blob/main/Learning%20to%20Ultralearn%20-%20Metalearning.md)
+    - self-improvement, learning
 - [Progress is Only Evolution in Disguise, Rooted in Reproduction. Reflections as a Disabled Christian and Responsible Democrat](https://github.com/maxloosmu/MaxVault/blob/main/Progress%20is%20Only%20Evolution%20in%20Disguise,%20Rooted%20in%20Reproduction.%20Reflections%20as%20a%20Disabled%20Christian%20and%20Responsible%20Democrat.md)
+    - life, society, Singapore, politics, christianity
 - [Self Evaluation Around the Power of Purpose Based on the Book Thriving on Overload](https://github.com/maxloosmu/MaxVault/blob/main/Self%20Evaluation%20Around%20the%20Power%20of%20Purpose%20Based%20on%20the%20Book%20Thriving%20on%20Overload.md)
+    - self-discovery, life, purpose
 - [Self Evaluation Using The Power of Framing](https://github.com/maxloosmu/MaxVault/blob/main/Self%20Evaluation%20Using%20The%20Power%20of%20Framing.md)
+    - self-discovery, purpose, frameworks, life, git
 - [Singapore, The Myth of the Sustainable City with Global Overpopulation and Lack of International Cooperation](https://github.com/maxloosmu/MaxVault/blob/main/Singapore,%20The%20Myth%20of%20the%20Sustainable%20City%20with%20Global%20Overpopulation%20and%20Lack%20of%20International%20Cooperation.md)
+    - Singapore, sustainability, geopolitics, population
 - [Skills Building, My Progress as of Aug 2022](https://github.com/maxloosmu/MaxVault/blob/main/Skills%20Building,%20My%20Progress%20as%20of%20Aug%202022.md)
+    - work, skills, learning, self-discovery, self-improvement
 - [Some Distilled Notes About How to Learn Fast and Acquire Skills, With an Example Application of Web Development](https://github.com/maxloosmu/MaxVault/blob/main/Some%20Distilled%20Notes%20About%20How%20to%20Learn%20Fast%20and%20Acquire%20Skills,%20With%20an%20Example%20Application%20of%20Web%20Development.md)
+    - learning, self-improvement, skills, web-development, programming
 - [Time Management and Prioritising based on My Current Work](https://github.com/maxloosmu/MaxVault/blob/main/Time%20Management%20and%20Prioritising%20based%20on%20My%20Current%20Work.md)
+    - time-management, work, self-improvement
 - [Unemployment, Underemployment, and All the Wrong Jobs](https://github.com/maxloosmu/MaxVault/blob/main/Unemployment,%20Underemployment,%20and%20All%20the%20Wrong%20Jobs.md)
+    - career, work, self-discovery
 - [What Did School Not Teach Me - Reflections Upon Reading a Book](https://github.com/maxloosmu/MaxVault/blob/main/What%20Did%20School%20Not%20Teach%20Me%20-%20Reflections%20Upon%20Reading%20a%20Book.md)
+    - self-improvement, innovation, problem-solving, purpose, focusing, memory, time-management, work

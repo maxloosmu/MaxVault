@@ -1,9 +1,10 @@
-self discovery, purpose, framework, life
 #self-discovery
 #purpose
 #frameworks
 #life
 #git
+
+## Self Evaluation Using The Power of Framing
 
 I'm doing this self evaluation using the power of framing based on the book "Thriving on Overload: the 5 Powers for Success in a World of Exponential Information".  
 

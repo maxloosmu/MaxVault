@@ -1,9 +1,10 @@
-Work, life, leisure, learning
 #work
 #skills
 #learning
 #self-discovery
 #self-improvement
+
+## Skills Building, My Progress as of Aug 2022
 
 I write this article referencing the book "The Twelve Habits of Smart Skill-Building.  A code for the reselling of you" by Bala Shankar.  I'll focus on just a few habit patterns that I find most relevant to me.  In computational research, besides using my skills, I find that I usually spend much of my time learning new knowledge, refreshing my memory, learning new skills or enhancing existing skills.  I learn by doing, so I code and blog when I learn.  It is all a combination of work, leisure and spiritual for me.
 

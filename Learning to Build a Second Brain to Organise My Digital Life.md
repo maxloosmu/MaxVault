@@ -1,7 +1,8 @@
-self-improvement, creativity
 #self-improvement 
 #note-taking
 #creativity 
+
+## Learning to Build a Second Brain to Organise My Digital Life
 
 I wrote this post by distilling and summarising Parts One and Two of the book "Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential" by Tiago Forte.  
 

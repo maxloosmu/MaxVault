@@ -1,6 +1,7 @@
-self-improvement, self-awareness
 #self-discovery 
 #values 
+
+## Determining my Current Values
 
 I had selected 5 personal values to live on in:
 https://medium.com/@maxloopinmok/applying-some-basic-minimalism-in-my-life-bf2175a28d19

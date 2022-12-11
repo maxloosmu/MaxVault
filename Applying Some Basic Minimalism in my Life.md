@@ -1,11 +1,10 @@
-life lessons, life, minimalism
 #life 
 #decluttering
 #purpose 
 #values
 #contentment 
 
-Applying Some Basic Minimalism in my Life
+## Applying Some Basic Minimalism in my Life
 
 After my analysis of time in my previous post:
 https://medium.com/@maxloopinmok/are-we-starved-of-time-everyday-what-we-can-do-about-it-f2fc9d75ce5e

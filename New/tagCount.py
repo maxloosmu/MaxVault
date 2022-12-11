@@ -12,8 +12,6 @@ newdict = {}
 
 def read_text_file(file_path):
   with open(file_path, 'r') as f:
-    # print(file_path)
-    # print(f.read())
     for line in f:
       first_split = line.split()
       if len(first_split) > 0:
@@ -21,8 +19,9 @@ def read_text_file(file_path):
         first_in_line_parts = len(first_in_line.split("#"))
         if first_in_line_parts > 1:
           tag = first_in_line.split("#")[1]
-          mylist.append(tag)
-          myset.add(tag)
+          if len(first_in_line.split("#")) == 2:
+            mylist.append(tag)
+            myset.add(tag)
     f.close()
 
 for file in os.listdir():
