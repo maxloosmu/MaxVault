@@ -11,5 +11,5 @@ with open(write_path, 'w') as f:
       rejoin_name = '%20'.join(split_name)
       github_link = "https://github.com/maxloosmu/MaxVault/blob/main/" + rejoin_name
       file_name = file[:-3]
-      f.write(f"[{file_name}]({github_link})\n")
+      f.write(f"[{file_name}]({github_link})\n\n")
   f.close()
