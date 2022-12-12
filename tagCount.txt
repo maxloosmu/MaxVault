@@ -1,9 +1,9 @@
-self-discovery: 8
-self-improvement: 8
+self-discovery: 9
+self-improvement: 9
 work: 6
 life: 5
 purpose: 5
-Singapore: 3
+Singapore: 4
 creativity: 3
 innovation: 3
 learning: 3
@@ -16,6 +16,8 @@ skills: 2
 technology: 2
 values: 2
 career: 1
+choices: 1
+decision-making: 1
 decluttering: 1
 education: 1
 focusing: 1

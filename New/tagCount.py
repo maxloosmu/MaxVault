@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+# ./tagCount.py
 import os
 
 path = "/mnt/c/Users/Max/MaxVault"
@@ -25,10 +27,13 @@ def read_text_file(file_path):
             myset.add(tag)
     f.close()
 
-for file in os.listdir():
-  if file.endswith(".md"):
-    file_path = f"{path}/{file}"
-    read_text_file(file_path)
+# for file in os.listdir():
+for root, dirs, files in os.walk("."):
+  for name in files:
+    if name.endswith(".md"):
+      # file_path = f"{path}/{file}"
+      file_path = os.path.join(root, name)
+      read_text_file(file_path)
 
 for val in myset:
   mydict[val] = mylist.count(val)

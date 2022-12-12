@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1aca28840912aeac",
+        "id": "9e1f918f44e59e10",
         "type": "tabs",
         "children": [
           {
-            "id": "72add043b4235e62",
+            "id": "60861b262c7a2841",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Evaluation Using The Power of Framing.md",
+                "file": "Unemployment, Underemployment, and All the Wrong Jobs.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Evaluation Using The Power of Framing.md",
+                "file": "Unemployment, Underemployment, and All the Wrong Jobs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Evaluation Using The Power of Framing.md",
+                "file": "Unemployment, Underemployment, and All the Wrong Jobs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self Evaluation Using The Power of Framing.md"
+                "file": "Unemployment, Underemployment, and All the Wrong Jobs.md"
               }
             }
           }
@@ -145,8 +145,9 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "72add043b4235e62",
+  "active": "60861b262c7a2841",
   "lastOpenFiles": [
+    "Thriving on Overload/Self Evaluation Based On The Power of Filtering.md",
     "Analysing my Strengths.md",
     "Applying Some Basic Minimalism in my Life.md",
     "Learning the Skill of Creativity with Systematic Inventive Thinking (SIT) and Then Analysing its Applicability in Programming.md",
@@ -155,7 +156,6 @@
     "Gridlock on the Rights of Information Access.md",
     "Self Evaluation Around the Power of Purpose Based on the Book Thriving on Overload.md",
     "What Did School Not Teach Me - Reflections Upon Reading a Book.md",
-    "Learning to Ultralearn - Metalearning.md",
-    "Learning to Build a Second Brain to Organise My Digital Life.md"
+    "Learning to Ultralearn - Metalearning.md"
   ]
 }
