@@ -65,21 +65,27 @@
     + self-improvement, time-management, work
 * [What Did School Not Teach Me - Reflections Upon Reading a Book](https://github.com/maxloosmu/MaxVault/blob/main/What%20Did%20School%20Not%20Teach%20Me%20-%20Reflections%20Upon%20Reading%20a%20Book.md)
     + focusing, innovation, memory, problem-solving, purpose, self-improvement, time-management, work
-* [A View of the Current State of Affairs in Research from a Disabled](https://github.com/maxloosmu/MaxVault/blob/main/A%20View%20of%20the%20Current%20State%20of%20Affairs%20in%20Research%20from%20a%20Disabled.md)
+
+#### S'pore
+* [A View of the Current State of Affairs in Research from a Disabled](https://github.com/maxloosmu/MaxVault/blob/main/S'pore/A%20View%20of%20the%20Current%20State%20of%20Affairs%20in%20Research%20from%20a%20Disabled.md)
     + Singapore, education, mental-health, religion, research, technology
-* [Progress is Only Evolution in Disguise, Rooted in Reproduction. Reflections as a Disabled Christian and Responsible Democrat](https://github.com/maxloosmu/MaxVault/blob/main/Progress%20is%20Only%20Evolution%20in%20Disguise,%20Rooted%20in%20Reproduction.%20Reflections%20as%20a%20Disabled%20Christian%20and%20Responsible%20Democrat.md)
+* [Progress is Only Evolution in Disguise, Rooted in Reproduction. Reflections as a Disabled Christian and Responsible Democrat](https://github.com/maxloosmu/MaxVault/blob/main/S'pore/Progress%20is%20Only%20Evolution%20in%20Disguise,%20Rooted%20in%20Reproduction.%20Reflections%20as%20a%20Disabled%20Christian%20and%20Responsible%20Democrat.md)
     + Singapore, christianity, life, politics, society
-* [Singapore, The Myth of the Sustainable City with Global Overpopulation and Lack of International Cooperation](https://github.com/maxloosmu/MaxVault/blob/main/Singapore,%20The%20Myth%20of%20the%20Sustainable%20City%20with%20Global%20Overpopulation%20and%20Lack%20of%20International%20Cooperation.md)
+* [Singapore, The Myth of the Sustainable City with Global Overpopulation and Lack of International Cooperation](https://github.com/maxloosmu/MaxVault/blob/main/S'pore/Singapore,%20The%20Myth%20of%20the%20Sustainable%20City%20with%20Global%20Overpopulation%20and%20Lack%20of%20International%20Cooperation.md)
     + Singapore, geopolitics, population, sustainability
-* [Unemployment, Underemployment, and All the Wrong Jobs](https://github.com/maxloosmu/MaxVault/blob/main/Unemployment,%20Underemployment,%20and%20All%20the%20Wrong%20Jobs.md)
+* [Unemployment, Underemployment, and All the Wrong Jobs](https://github.com/maxloosmu/MaxVault/blob/main/S'pore/Unemployment,%20Underemployment,%20and%20All%20the%20Wrong%20Jobs.md)
     + Singapore, career, self-discovery, work
-* [Analysing my Strengths](https://github.com/maxloosmu/MaxVault/blob/main/Analysing%20my%20Strengths.md)
+
+#### The Squiggly Career
+* [Analysing my Strengths](https://github.com/maxloosmu/MaxVault/blob/main/The%20Squiggly%20Career/Analysing%20my%20Strengths.md)
     + self-discovery, strengths
-* [Determining my Current Values](https://github.com/maxloosmu/MaxVault/blob/main/Determining%20my%20Current%20Values.md)
+* [Determining my Current Values](https://github.com/maxloosmu/MaxVault/blob/main/The%20Squiggly%20Career/Determining%20my%20Current%20Values.md)
     + self-discovery, values
-* [Self Evaluation Around the Power of Purpose Based on the Book Thriving on Overload](https://github.com/maxloosmu/MaxVault/blob/main/Self%20Evaluation%20Around%20the%20Power%20of%20Purpose%20Based%20on%20the%20Book%20Thriving%20on%20Overload.md)
+
+#### Thriving on Overload
+* [Self Evaluation Around the Power of Purpose Based on the Book Thriving on Overload](https://github.com/maxloosmu/MaxVault/blob/main/Thriving%20on%20Overload/Self%20Evaluation%20Around%20the%20Power%20of%20Purpose%20Based%20on%20the%20Book%20Thriving%20on%20Overload.md)
     + life, purpose, self-discovery
-* [Self Evaluation Based On The Power of Filtering](https://github.com/maxloosmu/MaxVault/blob/main/Self%20Evaluation%20Based%20On%20The%20Power%20of%20Filtering.md)
+* [Self Evaluation Based On The Power of Filtering](https://github.com/maxloosmu/MaxVault/blob/main/Thriving%20on%20Overload/Self%20Evaluation%20Based%20On%20The%20Power%20of%20Filtering.md)
     + choices, decision-making, self-discovery, self-improvement
-* [Self Evaluation Using The Power of Framing](https://github.com/maxloosmu/MaxVault/blob/main/Self%20Evaluation%20Using%20The%20Power%20of%20Framing.md)
+* [Self Evaluation Using The Power of Framing](https://github.com/maxloosmu/MaxVault/blob/main/Thriving%20on%20Overload/Self%20Evaluation%20Using%20The%20Power%20of%20Framing.md)
     + frameworks, git, life, purpose, self-discovery

@@ -24,6 +24,7 @@ def read_text_file(file_path):
     f.close()
   return file_tags
 
+folders = []
 with open(write_path, 'w') as f:
   f.write("### Tag: Count\n")
   with open(tagCount_file, 'r') as g:
@@ -38,13 +39,26 @@ with open(write_path, 'w') as f:
     for file in files:
       if file.endswith(".md"):
         if file != "README.md":
-          split_name = file.split()
-          url_name = '%20'.join(split_name)
-          github_url = "https://github.com/maxloosmu/MaxVault/blob/main/" + url_name
+          folder_url = ''
+          len_divided_filename = len(root.split('/'))
+          divided_filename = root.split('/')
+          if len_divided_filename == 2:
+            folder_name = divided_filename[1]
+            if not (folder_name in folders):
+              folders.append(folder_name)
+              f.write("\n#### " + folder_name + "\n")
+            folder_url = folder_name + '/'
+            split_folder_url = folder_url.split()
+            folder_url = '%20'.join(split_folder_url)
+            print(folder_url)
+          split_filename = file.split()
+          name_url = '%20'.join(split_filename)
+          github_url = "https://github.com/maxloosmu/MaxVault/blob/main/" + folder_url + name_url
           file_name = file[:-3]
           f.write(f"* [{file_name}]({github_url})\n")
           # file_path = f"{path}/{file}"
           file_path = os.path.join(root, file)
+          # print(file_path)
           sorted_tags = ', '.join(read_text_file(file_path))
           f.write(f"    + {sorted_tags}\n")
   f.close()
