@@ -5,6 +5,7 @@ import os
 path = "/mnt/c/Users/Max/MaxVault"
 write_path = "/mnt/c/Users/Max/MaxVault/README.md"
 tagCount_file = "/mnt/c/Users/Max/MaxVault/tagCount.txt"
+github_url_start = "https://github.com/maxloosmu/MaxVault/blob/main/"
 os.chdir(path)
 
 def read_text_file(file_path):
@@ -53,7 +54,7 @@ with open(write_path, 'w') as f:
             print(folder_url)
           split_filename = file.split()
           name_url = '%20'.join(split_filename)
-          github_url = "https://github.com/maxloosmu/MaxVault/blob/main/" + folder_url + name_url
+          github_url = github_url_start + folder_url + name_url
           file_name = file[:-3]
           f.write(f"* [{file_name}]({github_url})\n")
           # file_path = f"{path}/{file}"
