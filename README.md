@@ -55,7 +55,7 @@
     + creativity, innovation, programming, web-development
 * [Learning to Build a Second Brain to Organise My Digital Life](https://github.com/maxloosmu/MaxVault/blob/main/Learning%20to%20Build%20a%20Second%20Brain%20to%20Organise%20My%20Digital%20Life.md)
     + creativity, note-taking, self-improvement
-* [Learning to Ultralearn - Metalearning](https://github.com/maxloosmu/MaxVault/blob/main/Learning%20to%20Ultralearn%20-%20Metalearning.md)
+* [Learning-to-Ultralearn-Metalearning](https://github.com/maxloosmu/MaxVault/blob/main/Learning-to-Ultralearn-Metalearning.md)
     + learning, self-improvement
 * [Skills Building, My Progress as of Aug 2022](https://github.com/maxloosmu/MaxVault/blob/main/Skills%20Building,%20My%20Progress%20as%20of%20Aug%202022.md)
     + learning, self-discovery, self-improvement, skills, work
