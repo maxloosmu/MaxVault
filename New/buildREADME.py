@@ -3,7 +3,7 @@
 import os
 
 path = "/mnt/c/Users/Max/MaxVault"
-write_path = "/mnt/c/Users/Max/MaxVault/README.md"
+write_path = "/mnt/c/Users/Max/MaxVault/index.html"
 tagCount_file = "/mnt/c/Users/Max/MaxVault/tagCount.txt"
 github_url_start = "https://github.com/maxloosmu/MaxVault/blob/main/"
 os.chdir(path)
