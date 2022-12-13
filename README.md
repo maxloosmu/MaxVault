@@ -1,21 +1,21 @@
 ### Tag: Count
-- self-discovery: 9
-- self-improvement: 9
-- work: 6
+- self-discovery: 8
+- self-improvement: 8
 - life: 5
 - purpose: 5
+- work: 5
 - Singapore: 4
 - creativity: 3
 - innovation: 3
-- learning: 3
 - programming: 3
 - time-management: 3
-- web-development: 3
 - christianity: 2
 - contentment: 2
+- learning: 2
 - skills: 2
 - technology: 2
 - values: 2
+- web-development: 2
 - career: 1
 - choices: 1
 - decision-making: 1
@@ -37,12 +37,9 @@
 - research: 1
 - society: 1
 - strengths: 1
-- success-factors: 1
 - sustainability: 1
 
 ### Blog Posts
-* [6 Attributes for Success and How They Relate to Me](https://github.com/maxloosmu/MaxVault/blob/main/6%20Attributes%20for%20Success%20and%20How%20They%20Relate%20to%20Me.md)
-    + self-discovery, success-factors, web-development, work
 * [Applying Some Basic Minimalism in my Life](https://github.com/maxloosmu/MaxVault/blob/main/Applying%20Some%20Basic%20Minimalism%20in%20my%20Life.md)
     + contentment, decluttering, life, purpose, values
 * [Are we starved of time everyday, What we can do about it.  Time, Gratitude, Satisfaction, Contentment, Purpose](https://github.com/maxloosmu/MaxVault/blob/main/Are%20we%20starved%20of%20time%20everyday,%20What%20we%20can%20do%20about%20it.%20Time,%20Gratitude,%20Satisfaction,%20Contentment,%20Purpose.md)
@@ -55,8 +52,6 @@
     + creativity, innovation, programming, web-development
 * [Learning to Build a Second Brain to Organise My Digital Life](https://github.com/maxloosmu/MaxVault/blob/main/Learning%20to%20Build%20a%20Second%20Brain%20to%20Organise%20My%20Digital%20Life.md)
     + creativity, note-taking, self-improvement
-* [Learning-to-Ultralearn-Metalearning](https://github.com/maxloosmu/MaxVault/blob/main/Learning-to-Ultralearn-Metalearning.md)
-    + learning, self-improvement
 * [Skills Building, My Progress as of Aug 2022](https://github.com/maxloosmu/MaxVault/blob/main/Skills%20Building,%20My%20Progress%20as%20of%20Aug%202022.md)
     + learning, self-discovery, self-improvement, skills, work
 * [Some Distilled Notes About How to Learn Fast and Acquire Skills, With an Example Application of Web Development](https://github.com/maxloosmu/MaxVault/blob/main/Some%20Distilled%20Notes%20About%20How%20to%20Learn%20Fast%20and%20Acquire%20Skills,%20With%20an%20Example%20Application%20of%20Web%20Development.md)
