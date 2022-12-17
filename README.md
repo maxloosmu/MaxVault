@@ -1,23 +1,26 @@
 ### Tag: Count
-- self-discovery: 8
-- self-improvement: 8
+- self-improvement: 11
+- self-discovery: 10
+- work: 6
 - life: 5
 - purpose: 5
-- work: 5
 - Singapore: 4
+- learning: 4
 - creativity: 3
 - innovation: 3
 - programming: 3
 - time-management: 3
+- web-development: 3
 - christianity: 2
 - contentment: 2
-- learning: 2
 - skills: 2
 - technology: 2
 - values: 2
-- web-development: 2
+- Feynman-Technique: 1
+- attention: 1
 - career: 1
 - choices: 1
+- comprehension: 1
 - decision-making: 1
 - decluttering: 1
 - education: 1
@@ -30,16 +33,23 @@
 - memory: 1
 - mental-health: 1
 - note-taking: 1
+- organising: 1
 - politics: 1
 - population: 1
 - problem-solving: 1
+- productivity: 1
 - religion: 1
 - research: 1
+- routines: 1
 - society: 1
 - strengths: 1
+- success-factors: 1
 - sustainability: 1
+- thinking: 1
 
 ### Blog Posts
+* [6 Attributes for Success and How They Relate to Me](https://github.com/maxloosmu/MaxVault/blob/main/6%20Attributes%20for%20Success%20and%20How%20They%20Relate%20to%20Me.md)
+    + self-discovery, success-factors, web-development, work
 * [Applying Some Basic Minimalism in my Life](https://github.com/maxloosmu/MaxVault/blob/main/Applying%20Some%20Basic%20Minimalism%20in%20my%20Life.md)
     + contentment, decluttering, life, purpose, values
 * [Are we starved of time everyday, What we can do about it.  Time, Gratitude, Satisfaction, Contentment, Purpose](https://github.com/maxloosmu/MaxVault/blob/main/Are%20we%20starved%20of%20time%20everyday,%20What%20we%20can%20do%20about%20it.%20Time,%20Gratitude,%20Satisfaction,%20Contentment,%20Purpose.md)
@@ -80,7 +90,15 @@
 #### Thriving on Overload
 * [Self Evaluation Around the Power of Purpose Based on the Book Thriving on Overload](https://github.com/maxloosmu/MaxVault/blob/main/Thriving%20on%20Overload/Self%20Evaluation%20Around%20the%20Power%20of%20Purpose%20Based%20on%20the%20Book%20Thriving%20on%20Overload.md)
     + life, purpose, self-discovery
+* [Self Evaluation based on the 4th Power - The Power Of Attention](https://github.com/maxloosmu/MaxVault/blob/main/Thriving%20on%20Overload/Self%20Evaluation%20based%20on%20the%204th%20Power%20-%20The%20Power%20Of%20Attention.md)
+    + attention, organising, productivity, routines, self-discovery, self-improvement, thinking
 * [Self Evaluation Based On The Power of Filtering](https://github.com/maxloosmu/MaxVault/blob/main/Thriving%20on%20Overload/Self%20Evaluation%20Based%20On%20The%20Power%20of%20Filtering.md)
     + choices, decision-making, self-discovery, self-improvement
 * [Self Evaluation Using The Power of Framing](https://github.com/maxloosmu/MaxVault/blob/main/Thriving%20on%20Overload/Self%20Evaluation%20Using%20The%20Power%20of%20Framing.md)
     + frameworks, git, life, purpose, self-discovery
+
+#### Ultralearning
+* [Learning to Ultralearn - Metalearning](https://github.com/maxloosmu/MaxVault/blob/main/Ultralearning/Learning%20to%20Ultralearn%20-%20Metalearning.md)
+    + learning, self-improvement
+* [Learning to Ultralearn, Principle 8 - Intuition](https://github.com/maxloosmu/MaxVault/blob/main/Ultralearning/Learning%20to%20Ultralearn,%20Principle%208%20-%20Intuition.md)
+    + Feynman-Technique, comprehension, learning, self-improvement

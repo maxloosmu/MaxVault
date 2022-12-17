@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9e1f918f44e59e10",
+        "id": "bbc4c4ee736fc680",
         "type": "tabs",
         "children": [
           {
-            "id": "60861b262c7a2841",
+            "id": "781c5415352c0c0d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unemployment, Underemployment, and All the Wrong Jobs.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unemployment, Underemployment, and All the Wrong Jobs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unemployment, Underemployment, and All the Wrong Jobs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Unemployment, Underemployment, and All the Wrong Jobs.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -145,17 +137,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "60861b262c7a2841",
+  "active": "781c5415352c0c0d",
   "lastOpenFiles": [
+    "Thriving on Overload/Self Evaluation based on the 4th Power - The Power Of Attention.md",
+    "Ultralearning/Learning to Ultralearn, Principle 8 - Intuition.md",
+    "Ultralearning/Learning to Ultralearn - Metalearning.md",
     "Thriving on Overload/Self Evaluation Based On The Power of Filtering.md",
+    "Thriving on Overload/Self Evaluation Using The Power of Framing.md",
+    "Thriving on Overload/Self Evaluation Around the Power of Purpose Based on the Book Thriving on Overload.md",
     "Analysing my Strengths.md",
     "Applying Some Basic Minimalism in my Life.md",
     "Learning the Skill of Creativity with Systematic Inventive Thinking (SIT) and Then Analysing its Applicability in Programming.md",
-    "Are we starved of time everyday, What we can do about it.  Time, Gratitude, Satisfaction, Contentment, Purpose.md",
-    "6 Attributes for Success and How They Relate to Me.md",
-    "Gridlock on the Rights of Information Access.md",
-    "Self Evaluation Around the Power of Purpose Based on the Book Thriving on Overload.md",
-    "What Did School Not Teach Me - Reflections Upon Reading a Book.md",
-    "Learning to Ultralearn - Metalearning.md"
+    "Are we starved of time everyday, What we can do about it.  Time, Gratitude, Satisfaction, Contentment, Purpose.md"
   ]
 }
