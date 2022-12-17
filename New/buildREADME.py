@@ -27,6 +27,7 @@ def read_text_file(file_path):
 
 folders = []
 with open(write_path, 'w') as f:
+  f.write("## Notes building with some Obsidian help for self-improvement to simplify work and life, and be ready for an uncertain future.\n")
   f.write("### Tag: Count\n")
   with open(tagCount_file, 'r') as g:
     tagCount_lines = g.readlines()

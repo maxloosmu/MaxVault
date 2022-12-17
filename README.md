@@ -1,3 +1,4 @@
+## Notes building with some Obsidian help for self-improvement to simplify work and life, and be ready for an uncertain future.
 ### Tag: Count
 - self-improvement: 11
 - self-discovery: 10
