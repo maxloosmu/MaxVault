@@ -1,19 +1,20 @@
 ## Notes building with some Obsidian help for self-improvement to simplify work and life, and be ready for an uncertain future.
 ### Tag: Count
-- self-improvement: 11
+- self-improvement: 12
 - self-discovery: 10
 - work: 6
 - life: 5
 - purpose: 5
 - Singapore: 4
+- creativity: 4
 - learning: 4
-- creativity: 3
 - innovation: 3
 - programming: 3
 - time-management: 3
 - web-development: 3
 - christianity: 2
 - contentment: 2
+- decision-making: 2
 - skills: 2
 - technology: 2
 - values: 2
@@ -22,7 +23,6 @@
 - career: 1
 - choices: 1
 - comprehension: 1
-- decision-making: 1
 - decluttering: 1
 - education: 1
 - focusing: 1
@@ -33,6 +33,7 @@
 - law: 1
 - memory: 1
 - mental-health: 1
+- mental-models: 1
 - note-taking: 1
 - organising: 1
 - politics: 1
@@ -46,6 +47,7 @@
 - strengths: 1
 - success-factors: 1
 - sustainability: 1
+- synthesis: 1
 - thinking: 1
 
 ### Blog Posts
@@ -93,6 +95,8 @@
     + life, purpose, self-discovery
 * [Self Evaluation based on the 4th Power - The Power Of Attention](https://github.com/maxloosmu/MaxVault/blob/main/Thriving%20on%20Overload/Self%20Evaluation%20based%20on%20the%204th%20Power%20-%20The%20Power%20Of%20Attention.md)
     + attention, organising, productivity, routines, self-discovery, self-improvement, thinking
+* [Self Evaluation based on the 5th Power - The Power Of Synthesis](https://github.com/maxloosmu/MaxVault/blob/main/Thriving%20on%20Overload/Self%20Evaluation%20based%20on%20the%205th%20Power%20-%20The%20Power%20Of%20Synthesis.md)
+    + creativity, decision-making, mental-models, self-improvement, synthesis
 * [Self Evaluation Based On The Power of Filtering](https://github.com/maxloosmu/MaxVault/blob/main/Thriving%20on%20Overload/Self%20Evaluation%20Based%20On%20The%20Power%20of%20Filtering.md)
     + choices, decision-making, self-discovery, self-improvement
 * [Self Evaluation Using The Power of Framing](https://github.com/maxloosmu/MaxVault/blob/main/Thriving%20on%20Overload/Self%20Evaluation%20Using%20The%20Power%20of%20Framing.md)
