@@ -1,13 +1,13 @@
 ## Notes building with some Obsidian help for self-improvement to simplify work and life, and be ready for an uncertain future.
 ### Tag: Count
-- self-improvement: 12
+- self-improvement: 13
 - self-discovery: 10
 - work: 6
+- learning: 5
 - life: 5
 - purpose: 5
 - Singapore: 4
 - creativity: 4
-- learning: 4
 - innovation: 3
 - programming: 3
 - time-management: 3
@@ -104,6 +104,8 @@
 
 #### Ultralearning
 * [Learning to Ultralearn - Metalearning](https://github.com/maxloosmu/MaxVault/blob/main/Ultralearning/Learning%20to%20Ultralearn%20-%20Metalearning.md)
+    + learning, self-improvement
+* [Learning to Ultralearn, Principle 3 - Directness](https://github.com/maxloosmu/MaxVault/blob/main/Ultralearning/Learning%20to%20Ultralearn%2C%20Principle%203%20-%20Directness.md)
     + learning, self-improvement
 * [Learning to Ultralearn, Principle 8 - Intuition](https://github.com/maxloosmu/MaxVault/blob/main/Ultralearning/Learning%20to%20Ultralearn%2C%20Principle%208%20-%20Intuition.md)
     + Feynman-Technique, comprehension, learning, self-improvement
