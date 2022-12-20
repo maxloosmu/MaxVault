@@ -8,8 +8,8 @@
 - purpose: 5
 - Singapore: 4
 - creativity: 4
+- programming: 4
 - innovation: 3
-- programming: 3
 - time-management: 3
 - web-development: 3
 - christianity: 2
@@ -106,6 +106,6 @@
 * [Learning to Ultralearn - Metalearning](https://github.com/maxloosmu/MaxVault/blob/main/Ultralearning/Learning%20to%20Ultralearn%20-%20Metalearning.md)
     + learning, self-improvement
 * [Learning to Ultralearn, Principle 3 - Directness](https://github.com/maxloosmu/MaxVault/blob/main/Ultralearning/Learning%20to%20Ultralearn%2C%20Principle%203%20-%20Directness.md)
-    + learning, self-improvement
+    + learning, programming, self-improvement
 * [Learning to Ultralearn, Principle 8 - Intuition](https://github.com/maxloosmu/MaxVault/blob/main/Ultralearning/Learning%20to%20Ultralearn%2C%20Principle%208%20-%20Intuition.md)
     + Feynman-Technique, comprehension, learning, self-improvement

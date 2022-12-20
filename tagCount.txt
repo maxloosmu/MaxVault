@@ -6,8 +6,8 @@ life: 5
 purpose: 5
 Singapore: 4
 creativity: 4
+programming: 4
 innovation: 3
-programming: 3
 time-management: 3
 web-development: 3
 christianity: 2
