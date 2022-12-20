@@ -2,38 +2,40 @@
 ### Tag: Count
 - self-improvement: 13
 - self-discovery: 10
+- learning: 8
+- programming: 7
+- life: 6
 - work: 6
-- learning: 5
-- life: 5
 - purpose: 5
 - Singapore: 4
 - creativity: 4
-- programming: 4
+- web-development: 4
 - innovation: 3
+- memory: 3
 - time-management: 3
-- web-development: 3
 - christianity: 2
 - contentment: 2
 - decision-making: 2
+- education: 2
+- mental-models: 2
 - skills: 2
 - technology: 2
 - values: 2
 - Feynman-Technique: 1
+- Haskell: 1
 - attention: 1
 - career: 1
 - choices: 1
 - comprehension: 1
 - decluttering: 1
-- education: 1
 - focusing: 1
 - frameworks: 1
+- functional-programming: 1
 - geopolitics: 1
 - git: 1
 - insight: 1
 - law: 1
-- memory: 1
 - mental-health: 1
-- mental-models: 1
 - note-taking: 1
 - organising: 1
 - politics: 1
@@ -83,6 +85,14 @@
     + Singapore, geopolitics, population, sustainability
 * [Unemployment, Underemployment, and All the Wrong Jobs](https://github.com/maxloosmu/MaxVault/blob/main/S'pore/Unemployment%2C%20Underemployment%2C%20and%20All%20the%20Wrong%20Jobs.md)
     + Singapore, career, self-discovery, work
+
+#### The Programmer's Brain
+* [How To Better Remember Code And Understand It](https://github.com/maxloosmu/MaxVault/blob/main/The%20Programmer's%20Brain/How%20To%20Better%20Remember%20Code%20And%20Understand%20It.md)
+    + learning, memory, programming
+* [Mental Models in Programming](https://github.com/maxloosmu/MaxVault/blob/main/The%20Programmer's%20Brain/Mental%20Models%20in%20Programming.md)
+    + learning, memory, mental-models, programming
+* [Misconceptions When Learning Multiple Programming Languages And How To Learn More Effectively](https://github.com/maxloosmu/MaxVault/blob/main/The%20Programmer's%20Brain/Misconceptions%20When%20Learning%20Multiple%20Programming%20Languages%20And%20How%20To%20Learn%20More%20Effectively.md)
+    + Haskell, education, functional-programming, learning, life, programming, web-development
 
 #### The Squiggly Career
 * [Analysing my Strengths](https://github.com/maxloosmu/MaxVault/blob/main/The%20Squiggly%20Career/Analysing%20my%20Strengths.md)

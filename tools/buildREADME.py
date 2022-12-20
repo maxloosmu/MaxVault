@@ -2,12 +2,18 @@
 
 import os
 
-# path = "/mnt/c/Users/Max/MaxVault"
-# write_path = "/mnt/c/Users/Max/MaxVault/README.md"
-# tagCount_file = "/mnt/c/Users/Max/MaxVault/tagCount.txt"
-path = "/Users/maxloo/MaxVault"
-write_path = path + "/README.md"
-tagCount_file = path + "/tagCount.txt"
+try:
+  path = "/mnt/c/Users/Max/MaxVault"
+  write_path = "/mnt/c/Users/Max/MaxVault/README.md"
+  tagCount_file = "/mnt/c/Users/Max/MaxVault/tagCount.txt"
+except:
+  path = "/Users/maxloo/MaxVault"
+  write_path = path + "/README.md"
+  tagCount_file = path + "/tagCount.txt"
+# else:
+#   path = "/mnt/c/Users/Max/MaxVault"
+#   write_path = "/mnt/c/Users/Max/MaxVault/README.md"
+#   tagCount_file = "/mnt/c/Users/Max/MaxVault/tagCount.txt"
 github_url_start = "https://github.com/maxloosmu/MaxVault/blob/main/"
 os.chdir(path)
 

@@ -2,10 +2,15 @@
 # ./tagCount.py
 import os
 
-# path = "/mnt/c/Users/Max/MaxVault"
-# write_path = "/mnt/c/Users/Max/MaxVault/tagCount.txt"
-path = "/Users/maxloo/MaxVault"
-write_path = path + "/tagCount.txt"
+try:
+  path = "/mnt/c/Users/Max/MaxVault"
+  write_path = "/mnt/c/Users/Max/MaxVault/tagCount.txt"
+except:
+  path = "/Users/maxloo/MaxVault"
+  write_path = path + "/tagCount.txt"
+# else:
+#   path = "/mnt/c/Users/Max/MaxVault"
+#   write_path = "/mnt/c/Users/Max/MaxVault/tagCount.txt"
 os.chdir(path)
 
 mylist = []
