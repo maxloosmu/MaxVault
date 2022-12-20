@@ -17,4 +17,4 @@ The research and planning for our ultralearning project should not be overdone, 
 
 ### 2022-12 Update
 
-It must be noted that the outcomes of doing research is essentially lumpy, meaning that we may do research for many hours without much progress, and then find something of great value.  My general motivation for learning is instrumental, because it's for my work and my current purpose to simplify life to live properly in accordance with my values.  I do have an intrinsic motivation for learning, but it's about saving lives and is not directly  relatable to my current work in the legal industry.  
+It must be noted that the outcomes of doing research is essentially lumpy, meaning that we may do research for many hours without much progress, and then suddenly find something of great value.  My general motivation for learning is instrumental, because it's for my work and my current purpose to simplify life to live and earn properly in accordance with my values.  I do have an intrinsic motivation for learning, but it's about saving lives and is not directly  relatable to my current work in the legal industry.  
