@@ -1,24 +1,27 @@
 ## Notes building with some Obsidian help for self-improvement to simplify work and life, and be ready for an uncertain future.
-### Tag: Count
-- self-improvement: 13
+### Date: Posts Count
 - 2022-12: 11
+- 2022-11: 8
+- 2022-10: 3
+- 2022-09: 1
+- 2022-08: 4
+- 2022-07: 2
+
+### Tag: Posts Count
+- self-improvement: 13
 - self-discovery: 10
 - learning: 9
-- 2022-11: 8
 - programming: 8
 - life: 6
 - work: 6
 - purpose: 5
-- 2022-08: 4
 - Singapore: 4
 - creativity: 4
 - web-development: 4
-- 2022-10: 3
 - innovation: 3
 - memory: 3
 - mental-models: 3
 - time-management: 3
-- 2022-07: 2
 - christianity: 2
 - contentment: 2
 - decision-making: 2
@@ -28,7 +31,6 @@
 - skills: 2
 - technology: 2
 - values: 2
-- 2022-09: 1
 - Feynman-Technique: 1
 - Haskell: 1
 - attention: 1

@@ -1,16 +1,14 @@
 #!/usr/bin/python3
-# ./tagCount.py
+# ./dateCount.py
 import os
 
 try:
   path = "/mnt/c/Users/Max/MaxVault"
-  write_path = "/mnt/c/Users/Max/MaxVault/tagCount.txt"
+  write_path = "/mnt/c/Users/Max/MaxVault/dateCount.txt"
 except:
   path = "/Users/maxloo/MaxVault"
-  write_path = path + "/tagCount.txt"
-# else:
-#   path = "/mnt/c/Users/Max/MaxVault"
-#   write_path = "/mnt/c/Users/Max/MaxVault/tagCount.txt"
+  write_path = path + "/dateCount.txt"
+
 os.chdir(path)
 
 mylist = []
@@ -29,7 +27,7 @@ def read_text_file(file_path):
         if first_in_line_parts > 1:
           tag = first_in_line.split("#")[1]
           if len(first_in_line.split("#")) == 2:
-            if tag[:3] != '202':
+            if tag[:3] == '202':
               mylist.append(tag)
               myset.add(tag)
     f.close()
@@ -44,13 +42,13 @@ for root, dirs, files in os.walk("."):
 
 for val in myset:
   mydict[val] = mylist.count(val)
-  newdict1 = dict(sorted(mydict.items(), key=lambda item: item[0]))
-  newdict2 = dict(sorted(newdict1.items(), key=lambda item: item[1], reverse=True))
+  newdict1 = dict(sorted(mydict.items(), key=lambda item: item[0], reverse=True))
+  # newdict2 = dict(sorted(newdict1.items(), key=lambda item: item[1], reverse=True))
 
-print(newdict2)
+print(newdict1)
 with open(write_path, 'w') as f:
   f.close()
 with open(write_path, 'a') as f:
-  for key in newdict2:
-    f.write(f"{key}: {newdict2[key]}\n")
+  for key in newdict1:
+    f.write(f"{key}: {newdict1[key]}\n")
   f.close()

@@ -6,10 +6,12 @@ try:
   path = "/mnt/c/Users/Max/MaxVault"
   write_path = "/mnt/c/Users/Max/MaxVault/README.md"
   tagCount_file = "/mnt/c/Users/Max/MaxVault/tagCount.txt"
+  dateCount_file = "/mnt/c/Users/Max/MaxVault/dateCount.txt"
 except:
   path = "/Users/maxloo/MaxVault"
   write_path = path + "/README.md"
   tagCount_file = path + "/tagCount.txt"
+  dateCount_file = path + "/dateCount.txt"
 # else:
 #   path = "/mnt/c/Users/Max/MaxVault"
 #   write_path = "/mnt/c/Users/Max/MaxVault/README.md"
@@ -37,12 +39,18 @@ def read_text_file(file_path):
 folders = []
 with open(write_path, 'w') as f:
   f.write("## Notes building with some Obsidian help for self-improvement to simplify work and life, and be ready for an uncertain future.\n")
-  f.write("### Tag: Count\n")
-  with open(tagCount_file, 'r') as g:
-    tagCount_lines = g.readlines()
-    for line in tagCount_lines:
+  f.write("### Date: Posts Count\n")
+  with open(dateCount_file, 'r') as g:
+    dateCount_lines = g.readlines()
+    for line in dateCount_lines:
       f.write("- " + line)
     g.close()
+  f.write("\n### Tag: Posts Count\n")
+  with open(tagCount_file, 'r') as h:
+    tagCount_lines = h.readlines()
+    for line in tagCount_lines:
+      f.write("- " + line)
+    h.close()
   f.write("\n### Blog Posts\n")
   # for file in os.listdir():
   #   if file.endswith(".md"):
