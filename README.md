@@ -51,6 +51,8 @@
 - thinking: 1
 
 ### Blog Posts
+* [Are we starved of time everyday, What we can do about it - Time, Gratitude, Satisfaction, Contentment, Purpose](https://github.com/maxloosmu/MaxVault/blob/main/Are%20we%20starved%20of%20time%20everyday%2C%20What%20we%20can%20do%20about%20it%20-%20Time%2C%20Gratitude%2C%20Satisfaction%2C%20Contentment%2C%20Purpose.md)
+    + contentment, purpose, self-discovery, self-improvement, time-management, work
 * [Gaining Insights, what I've learnt from the book Seeing What Others Don't](https://github.com/maxloosmu/MaxVault/blob/main/Gaining%20Insights%2C%20what%20I've%20learnt%20from%20the%20book%20Seeing%20What%20Others%20Don't.md)
     + christianity, creativity, innovation, insight, life, programming, self-improvement
 * [Some Distilled Notes About How to Learn Fast and Acquire Skills, With an Example Application of Web Development](https://github.com/maxloosmu/MaxVault/blob/main/Some%20Distilled%20Notes%20About%20How%20to%20Learn%20Fast%20and%20Acquire%20Skills%2C%20With%20an%20Example%20Application%20of%20Web%20Development.md)
@@ -63,8 +65,6 @@
     + contentment, decluttering, life, purpose, values
 * [What Did School Not Teach Me - Reflections Upon Reading a Book](https://github.com/maxloosmu/MaxVault/blob/main/What%20Did%20School%20Not%20Teach%20Me%20-%20Reflections%20Upon%20Reading%20a%20Book.md)
     + focusing, innovation, memory, problem-solving, purpose, self-improvement, time-management, work
-* [Are we starved of time everyday, What we can do about it.  Time, Gratitude, Satisfaction, Contentment, Purpose](https://github.com/maxloosmu/MaxVault/blob/main/Are%20we%20starved%20of%20time%20everyday%2C%20What%20we%20can%20do%20about%20it.%20Time%2C%20Gratitude%2C%20Satisfaction%2C%20Contentment%2C%20Purpose.md)
-    + contentment, purpose, self-discovery, self-improvement, time-management, work
 * [Learning to Build a Second Brain to Organise My Digital Life](https://github.com/maxloosmu/MaxVault/blob/main/Learning%20to%20Build%20a%20Second%20Brain%20to%20Organise%20My%20Digital%20Life.md)
     + creativity, note-taking, self-improvement
 * [Time Management and Prioritising based on My Current Work](https://github.com/maxloosmu/MaxVault/blob/main/Time%20Management%20and%20Prioritising%20based%20on%20My%20Current%20Work.md)

@@ -60,6 +60,8 @@ with open(write_path, 'w') as f:
           name_url = '%20'.join(split_filename_space)
           split_filename_comma = name_url.split(',')
           name_url = '%2C'.join(split_filename_comma)
+          # split_filename_dot = name_url.split('.')
+          # name_url = '%2E'.join(split_filename_dot)
           github_url = github_url_start + folder_url + name_url
           file_name = file[:-3]
           f.write(f"* [{file_name}]({github_url})\n")
