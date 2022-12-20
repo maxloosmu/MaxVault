@@ -2,9 +2,12 @@
 
 import os
 
-path = "/mnt/c/Users/Max/MaxVault"
-write_path = "/mnt/c/Users/Max/MaxVault/README.md"
-tagCount_file = "/mnt/c/Users/Max/MaxVault/tagCount.txt"
+# path = "/mnt/c/Users/Max/MaxVault"
+# write_path = "/mnt/c/Users/Max/MaxVault/README.md"
+# tagCount_file = "/mnt/c/Users/Max/MaxVault/tagCount.txt"
+path = "/Users/maxloo/MaxVault"
+write_path = path + "/README.md"
+tagCount_file = path + "/tagCount.txt"
 github_url_start = "https://github.com/maxloosmu/MaxVault/blob/main/"
 os.chdir(path)
 
@@ -53,8 +56,10 @@ with open(write_path, 'w') as f:
             split_folder_url = folder_url.split()
             folder_url = '%20'.join(split_folder_url)
             print(folder_url)
-          split_filename = file.split()
-          name_url = '%20'.join(split_filename)
+          split_filename_space = file.split()
+          name_url = '%20'.join(split_filename_space)
+          split_filename_comma = name_url.split(',')
+          name_url = '%2C'.join(split_filename_comma)
           github_url = github_url_start + folder_url + name_url
           file_name = file[:-3]
           f.write(f"* [{file_name}]({github_url})\n")
