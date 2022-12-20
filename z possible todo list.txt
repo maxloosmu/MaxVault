@@ -1,1 +1,2 @@
 insert blank lines before and after all html links in md files
+Convert commas in GitHub webpage url to %2C

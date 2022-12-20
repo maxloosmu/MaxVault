@@ -15,8 +15,6 @@ The question "How do we learn?" refers to the resources, environment and methods
 
 The research and planning for our ultralearning project should not be overdone, such that we procrastinate on the actual learning itself.  A good balance between insufficient research and analysis paralysis should be found based on the 10 percent rule and the diminishing returns and marginal benefit calculation.  The 10 percent rule simply allocates 5% to 10% of our learning time to research, and is done to avoid grabbing the first learning resource that comes our way without considering the alternatives.  The diminishing returns and marginal benefit calculation is an estimation of the returns and marginal benefits from doing research, which will reduce as more research is done.  When we feel that doing extra research is not helpful anymore, we will have to start the learning process.  
 
+### 2022-12 Update
 
-
-
-
-
+It must be noted that the outcomes of doing research is essentially lumpy, meaning that we may do research for many hours without much progress, and then find something of great value.  My general motivation for learning is instrumental, because it's for my work and my current purpose to simplify life to live properly in accordance with my values.  I do have an intrinsic motivation for learning, but it's about saving lives and is not directly  relatable to my current work in the legal industry.  
