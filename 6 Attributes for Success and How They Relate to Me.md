@@ -2,6 +2,7 @@
 #web-development
 #success-factors
 #self-discovery
+#2022-10
 
 ## 6 Attributes for Success and How They Relate to Me
 

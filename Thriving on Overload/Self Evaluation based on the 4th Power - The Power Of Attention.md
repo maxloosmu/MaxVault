@@ -1,10 +1,11 @@
 #self-discovery
-#self-improvement 
+#self-improvement
 #attention
 #routines
 #thinking
 #productivity
 #organising
+#2022-12
 
 ## Self Evaluation based on the 4th Power - The Power Of Attention And Routines
 

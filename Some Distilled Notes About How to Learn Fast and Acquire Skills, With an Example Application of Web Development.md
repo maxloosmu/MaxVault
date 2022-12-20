@@ -3,6 +3,7 @@
 #skills
 #web-development
 #programming
+#2022-11
 
 ## Some Distilled Notes About How to Learn Fast and Acquire Skills, With an Example Application of Web Development
 

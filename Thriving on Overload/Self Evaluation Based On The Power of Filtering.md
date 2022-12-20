@@ -1,7 +1,8 @@
-#self-discovery 
-#self-improvement 
+#self-discovery
+#self-improvement
 #choices
 #decision-making
+#2022-12
 
 ## Self Evaluation Based On The Power of Filtering
 

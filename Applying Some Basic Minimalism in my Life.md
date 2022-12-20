@@ -3,6 +3,7 @@
 #purpose
 #values
 #contentment
+#2022-11
 
 ## Applying Some Basic Minimalism in my Life
 

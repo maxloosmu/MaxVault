@@ -2,6 +2,7 @@
 #sustainability
 #geopolitics
 #population
+#2022-08
 
 ## Singapore, The Myth of the Sustainable City with Global Overpopulation and Lack of International Cooperation
 
