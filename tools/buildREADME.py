@@ -41,6 +41,8 @@ with open(write_path, 'w') as f:
   # for file in os.listdir():
   #   if file.endswith(".md"):
   for root, dirs, files in os.walk("."):
+    files.sort()
+    dirs.sort()
     for file in files:
       if file.endswith(".md"):
         if file != "README.md":
@@ -55,7 +57,8 @@ with open(write_path, 'w') as f:
             folder_url = folder_name + '/'
             split_folder_url = folder_url.split()
             folder_url = '%20'.join(split_folder_url)
-            print(folder_url)
+            # print(folder_url)
+            # print(dirs)
           split_filename_space = file.split()
           name_url = '%20'.join(split_filename_space)
           split_filename_comma = name_url.split(',')
