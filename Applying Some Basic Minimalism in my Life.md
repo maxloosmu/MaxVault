@@ -1,5 +1,6 @@
 #life
 #decluttering
+#organising
 #purpose
 #values
 #contentment

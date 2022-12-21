@@ -23,6 +23,7 @@
 - innovation: 3
 - memory: 3
 - mental-models: 3
+- organising: 3
 - time-management: 3
 - blogging: 2
 - christianity: 2
@@ -30,7 +31,6 @@
 - decision-making: 2
 - education: 2
 - frameworks: 2
-- organising: 2
 - skills: 2
 - technology: 2
 - values: 2
@@ -65,7 +65,7 @@
 
 ### Blog Posts
 * [Applying Some Basic Minimalism in my Life](https://github.com/maxloosmu/MaxVault/blob/main/Applying%20Some%20Basic%20Minimalism%20in%20my%20Life.md)
-    + 2022-11, contentment, decluttering, life, purpose, values
+    + 2022-11, contentment, decluttering, life, organising, purpose, values
 * [Learning the Skill of Creativity with Systematic Inventive Thinking (SIT) and Then Analysing its Applicability in Programming](https://github.com/maxloosmu/MaxVault/blob/main/Learning%20the%20Skill%20of%20Creativity%20with%20Systematic%20Inventive%20Thinking%20(SIT)%20and%20Then%20Analysing%20its%20Applicability%20in%20Programming.md)
     + 2022-11, creativity, habits, innovation, programming, web-development
 * [Learning to Build a Second Brain to Organise My Digital Life](https://github.com/maxloosmu/MaxVault/blob/main/Learning%20to%20Build%20a%20Second%20Brain%20to%20Organise%20My%20Digital%20Life.md)

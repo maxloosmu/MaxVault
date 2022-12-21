@@ -13,6 +13,7 @@ web-development: 4
 innovation: 3
 memory: 3
 mental-models: 3
+organising: 3
 time-management: 3
 blogging: 2
 christianity: 2
@@ -20,7 +21,6 @@ contentment: 2
 decision-making: 2
 education: 2
 frameworks: 2
-organising: 2
 skills: 2
 technology: 2
 values: 2
