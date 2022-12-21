@@ -1,6 +1,6 @@
 #self-improvement
 #learning
-#programming
+#blogging
 #2022-12
 
 ## Learning to Ultralearn, Principle 3 - Directness

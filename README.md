@@ -1,6 +1,6 @@
 ## Notes building with some Obsidian help for self-improvement to simplify work and life, and be ready for an uncertain future.
 ### Date: Posts Count
-- 2022-12: 11
+- 2022-12: 12
 - 2022-11: 8
 - 2022-10: 3
 - 2022-09: 1
@@ -8,10 +8,10 @@
 - 2022-07: 2
 
 ### Tag: Posts Count
-- self-improvement: 13
+- self-improvement: 14
+- learning: 10
 - self-discovery: 10
-- learning: 9
-- programming: 8
+- programming: 7
 - life: 6
 - work: 6
 - purpose: 5
@@ -24,6 +24,7 @@
 - memory: 3
 - mental-models: 3
 - time-management: 3
+- blogging: 2
 - christianity: 2
 - contentment: 2
 - decision-making: 2
@@ -126,7 +127,9 @@
 
 #### Ultralearning
 * [Learning to Ultralearn, Principle 3 - Directness](https://github.com/maxloosmu/MaxVault/blob/main/Ultralearning/Learning%20to%20Ultralearn%2C%20Principle%203%20-%20Directness.md)
-    + 2022-12, learning, programming, self-improvement
+    + 2022-12, blogging, learning, self-improvement
+* [Learning to Ultralearn, Principle 4 - Drill](https://github.com/maxloosmu/MaxVault/blob/main/Ultralearning/Learning%20to%20Ultralearn%2C%20Principle%204%20-%20Drill.md)
+    + 2022-12, blogging, learning, self-improvement
 * [Learning to Ultralearn, Principle 8 - Intuition](https://github.com/maxloosmu/MaxVault/blob/main/Ultralearning/Learning%20to%20Ultralearn%2C%20Principle%208%20-%20Intuition.md)
     + 2022-12, Feynman-Technique, comprehension, learning, self-improvement
 * [Learning to Ultralearn - Metalearning](https://github.com/maxloosmu/MaxVault/blob/main/Ultralearning/Learning%20to%20Ultralearn%20-%20Metalearning.md)

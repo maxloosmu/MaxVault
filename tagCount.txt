@@ -1,7 +1,7 @@
-self-improvement: 13
+self-improvement: 14
+learning: 10
 self-discovery: 10
-learning: 9
-programming: 8
+programming: 7
 life: 6
 work: 6
 purpose: 5
@@ -14,6 +14,7 @@ innovation: 3
 memory: 3
 mental-models: 3
 time-management: 3
+blogging: 2
 christianity: 2
 contentment: 2
 decision-making: 2
