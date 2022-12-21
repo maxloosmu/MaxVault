@@ -2,6 +2,7 @@
 #note-taking
 #organising
 #creativity
+#goals
 #2022-11
 
 ## Learning to Build a Second Brain to Organise My Digital Life

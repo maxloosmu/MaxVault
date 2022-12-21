@@ -2,10 +2,12 @@
 #innovation
 #problem-solving
 #purpose
+#goals
 #focusing
 #memory
 #time-management
 #work
+#habits
 #2022-11
 
 ## What Did School Not Teach Me - Reflections Upon Reading a Book

@@ -2,6 +2,7 @@
 #creativity
 #web-development
 #programming
+#habits
 #2022-11
 
 ## Learning the Skill of Creativity with Systematic Inventive Thinking (SIT) and Then Analysing its Applicability in Programming

@@ -7,6 +7,8 @@ work: 6
 purpose: 5
 Singapore: 4
 creativity: 4
+goals: 4
+habits: 4
 web-development: 4
 innovation: 3
 memory: 3

@@ -3,6 +3,7 @@
 #learning
 #self-discovery
 #self-improvement
+#habits
 #2022-08
 
 ## Skills Building, My Progress as of Aug 2022

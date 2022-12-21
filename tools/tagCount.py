@@ -4,14 +4,12 @@ import os
 
 try:
   path = "/mnt/c/Users/Max/MaxVault"
+  os.chdir(path)
   write_path = "/mnt/c/Users/Max/MaxVault/tagCount.txt"
 except:
   path = "/Users/maxloo/MaxVault"
+  os.chdir(path)
   write_path = path + "/tagCount.txt"
-# else:
-#   path = "/mnt/c/Users/Max/MaxVault"
-#   write_path = "/mnt/c/Users/Max/MaxVault/tagCount.txt"
-os.chdir(path)
 
 mylist = []
 myset = set()

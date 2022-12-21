@@ -4,20 +4,17 @@ import os
 
 try:
   path = "/mnt/c/Users/Max/MaxVault"
+  os.chdir(path)
   write_path = "/mnt/c/Users/Max/MaxVault/README.md"
   tagCount_file = "/mnt/c/Users/Max/MaxVault/tagCount.txt"
   dateCount_file = "/mnt/c/Users/Max/MaxVault/dateCount.txt"
 except:
   path = "/Users/maxloo/MaxVault"
+  os.chdir(path)
   write_path = path + "/README.md"
   tagCount_file = path + "/tagCount.txt"
   dateCount_file = path + "/dateCount.txt"
-# else:
-#   path = "/mnt/c/Users/Max/MaxVault"
-#   write_path = "/mnt/c/Users/Max/MaxVault/README.md"
-#   tagCount_file = "/mnt/c/Users/Max/MaxVault/tagCount.txt"
 github_url_start = "https://github.com/maxloosmu/MaxVault/blob/main/"
-os.chdir(path)
 
 def read_text_file(file_path):
   file_tags = []

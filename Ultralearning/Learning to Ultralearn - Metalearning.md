@@ -1,5 +1,6 @@
 #self-improvement
 #learning
+#goals
 #2022-11
 
 ## Learning to Ultralearn - Metalearning

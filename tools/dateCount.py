@@ -4,12 +4,12 @@ import os
 
 try:
   path = "/mnt/c/Users/Max/MaxVault"
+  os.chdir(path)
   write_path = "/mnt/c/Users/Max/MaxVault/dateCount.txt"
 except:
   path = "/Users/maxloo/MaxVault"
+  os.chdir(path)
   write_path = path + "/dateCount.txt"
-
-os.chdir(path)
 
 mylist = []
 myset = set()

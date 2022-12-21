@@ -17,6 +17,8 @@
 - purpose: 5
 - Singapore: 4
 - creativity: 4
+- goals: 4
+- habits: 4
 - web-development: 4
 - innovation: 3
 - memory: 3
@@ -64,13 +66,13 @@
 * [Applying Some Basic Minimalism in my Life](https://github.com/maxloosmu/MaxVault/blob/main/Applying%20Some%20Basic%20Minimalism%20in%20my%20Life.md)
     + 2022-11, contentment, decluttering, life, purpose, values
 * [Learning the Skill of Creativity with Systematic Inventive Thinking (SIT) and Then Analysing its Applicability in Programming](https://github.com/maxloosmu/MaxVault/blob/main/Learning%20the%20Skill%20of%20Creativity%20with%20Systematic%20Inventive%20Thinking%20(SIT)%20and%20Then%20Analysing%20its%20Applicability%20in%20Programming.md)
-    + 2022-11, creativity, innovation, programming, web-development
+    + 2022-11, creativity, habits, innovation, programming, web-development
 * [Learning to Build a Second Brain to Organise My Digital Life](https://github.com/maxloosmu/MaxVault/blob/main/Learning%20to%20Build%20a%20Second%20Brain%20to%20Organise%20My%20Digital%20Life.md)
-    + 2022-11, creativity, note-taking, organising, self-improvement
+    + 2022-11, creativity, goals, note-taking, organising, self-improvement
 * [Some Distilled Notes About How to Learn Fast and Acquire Skills, With an Example Application of Web Development](https://github.com/maxloosmu/MaxVault/blob/main/Some%20Distilled%20Notes%20About%20How%20to%20Learn%20Fast%20and%20Acquire%20Skills%2C%20With%20an%20Example%20Application%20of%20Web%20Development.md)
-    + 2022-11, learning, programming, self-improvement, skills, web-development
+    + 2022-11, goals, habits, learning, programming, self-improvement, skills, web-development
 * [What Did School Not Teach Me - Reflections Upon Reading a Book](https://github.com/maxloosmu/MaxVault/blob/main/What%20Did%20School%20Not%20Teach%20Me%20-%20Reflections%20Upon%20Reading%20a%20Book.md)
-    + 2022-11, focusing, innovation, memory, problem-solving, purpose, self-improvement, time-management, work
+    + 2022-11, focusing, goals, habits, innovation, memory, problem-solving, purpose, self-improvement, time-management, work
 * [6 Attributes for Success and How They Relate to Me](https://github.com/maxloosmu/MaxVault/blob/main/6%20Attributes%20for%20Success%20and%20How%20They%20Relate%20to%20Me.md)
     + 2022-10, self-discovery, success-factors, web-development, work
 * [Are we starved of time everyday, What we can do about it - Time, Gratitude, Satisfaction, Contentment, Purpose](https://github.com/maxloosmu/MaxVault/blob/main/Are%20we%20starved%20of%20time%20everyday%2C%20What%20we%20can%20do%20about%20it%20-%20Time%2C%20Gratitude%2C%20Satisfaction%2C%20Contentment%2C%20Purpose.md)
@@ -82,7 +84,7 @@
 * [Gaining Insights, what I've learnt from the book Seeing What Others Don't](https://github.com/maxloosmu/MaxVault/blob/main/Gaining%20Insights%2C%20what%20I've%20learnt%20from%20the%20book%20Seeing%20What%20Others%20Don't.md)
     + 2022-08, christianity, creativity, innovation, insight, life, programming, self-improvement
 * [Skills Building, My Progress as of Aug 2022](https://github.com/maxloosmu/MaxVault/blob/main/Skills%20Building%2C%20My%20Progress%20as%20of%20Aug%202022.md)
-    + 2022-08, learning, self-discovery, self-improvement, skills, work
+    + 2022-08, habits, learning, self-discovery, self-improvement, skills, work
 
 #### S'pore
 * [Progress is Only Evolution in Disguise, Rooted in Reproduction. Reflections as a Disabled Christian and Responsible Democrat](https://github.com/maxloosmu/MaxVault/blob/main/S'pore/Progress%20is%20Only%20Evolution%20in%20Disguise%2C%20Rooted%20in%20Reproduction.%20Reflections%20as%20a%20Disabled%20Christian%20and%20Responsible%20Democrat.md)
@@ -128,4 +130,4 @@
 * [Learning to Ultralearn, Principle 8 - Intuition](https://github.com/maxloosmu/MaxVault/blob/main/Ultralearning/Learning%20to%20Ultralearn%2C%20Principle%208%20-%20Intuition.md)
     + 2022-12, Feynman-Technique, comprehension, learning, self-improvement
 * [Learning to Ultralearn - Metalearning](https://github.com/maxloosmu/MaxVault/blob/main/Ultralearning/Learning%20to%20Ultralearn%20-%20Metalearning.md)
-    + 2022-11, learning, self-improvement
+    + 2022-11, goals, learning, self-improvement
