@@ -3,7 +3,9 @@
 #blogging
 #2022-12
 
-Learning to Ultralearn, Principle 4 - Drill
+## Learning to Ultralearn, Principle 4 - Drill
+
+Principle 4 of the book “Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career” is "Drill: Attack Your Weakest Point".  
 
 The rate determining step in our learning process is the bottleneck formed by certain aspects of our learning problem that controls the speed at which we can become more proficient in learning as a whole.  We have to carefully analyse the existing learning process to identify this step and isolate it, so that we can work on it to improve it with deliberate practices called drills.  Drills are so effective that even if there isn't one isolatable aspect of the skill that is reducing our performance, we can still apply them.  
 
