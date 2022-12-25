@@ -1,6 +1,6 @@
 ## Notes building with some Obsidian help for self-improvement to simplify work and life, and be ready for an uncertain future.
 ### Date: Posts Count
-- 2022-12: 13
+- 2022-12: 16
 - 2022-11: 8
 - 2022-10: 3
 - 2022-09: 1
@@ -8,18 +8,18 @@
 - 2022-07: 2
 
 ### Tag: Posts Count
-- self-improvement: 15
-- learning: 11
+- self-improvement: 18
+- learning: 14
 - self-discovery: 10
 - programming: 7
 - life: 6
 - work: 6
+- memory: 5
 - purpose: 5
 - Singapore: 4
 - creativity: 4
 - goals: 4
 - habits: 4
-- memory: 4
 - web-development: 4
 - innovation: 3
 - mental-models: 3
@@ -41,6 +41,8 @@
 - choices: 1
 - comprehension: 1
 - decluttering: 1
+- experimentation: 1
+- feedback: 1
 - focusing: 1
 - functional-programming: 1
 - geopolitics: 1
@@ -56,11 +58,13 @@
 - religion: 1
 - research: 1
 - routines: 1
+- social-media: 1
 - society: 1
 - strengths: 1
 - success-factors: 1
 - sustainability: 1
 - synthesis: 1
+- testing: 1
 - thinking: 1
 
 ### Blog Posts
@@ -132,7 +136,13 @@
     + 2022-12, blogging, learning, self-improvement
 * [Learning to Ultralearn, Principle 5 - Retrieval](https://github.com/maxloosmu/MaxVault/blob/main/Ultralearning/Learning%20to%20Ultralearn%2C%20Principle%205%20-%20Retrieval.md)
     + 2022-12, learning, memory, self-improvement
+* [Learning to Ultralearn, Principle 6 - Feedback](https://github.com/maxloosmu/MaxVault/blob/main/Ultralearning/Learning%20to%20Ultralearn%2C%20Principle%206%20-%20Feedback.md)
+    + 2022-12, feedback, learning, self-improvement, social-media
+* [Learning to Ultralearn, Principle 7 - Retention](https://github.com/maxloosmu/MaxVault/blob/main/Ultralearning/Learning%20to%20Ultralearn%2C%20Principle%207%20-%20Retention.md)
+    + 2022-12, learning, memory, self-improvement
 * [Learning to Ultralearn, Principle 8 - Intuition](https://github.com/maxloosmu/MaxVault/blob/main/Ultralearning/Learning%20to%20Ultralearn%2C%20Principle%208%20-%20Intuition.md)
     + 2022-12, Feynman-Technique, comprehension, learning, self-improvement
+* [Learning to Ultralearn, Principle 9 - Experimentation](https://github.com/maxloosmu/MaxVault/blob/main/Ultralearning/Learning%20to%20Ultralearn%2C%20Principle%209%20-%20Experimentation.md)
+    + 2022-12, experimentation, learning, self-improvement, testing
 * [Learning to Ultralearn - Metalearning](https://github.com/maxloosmu/MaxVault/blob/main/Ultralearning/Learning%20to%20Ultralearn%20-%20Metalearning.md)
     + 2022-11, goals, learning, self-improvement

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2708b9e29df31142",
+        "id": "40ce664b0025b9e1",
         "type": "tabs",
         "children": [
           {
-            "id": "14ad350051b34064",
+            "id": "38b92b2052e555be",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -147,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14ad350051b34064",
+  "active": "38b92b2052e555be",
   "lastOpenFiles": [
+    "Ultralearning/Learning to Ultralearn, Principle 7 - Retention.md",
+    "Ultralearning/Learning to Ultralearn, Principle 6 - Feedback.md",
+    "Ultralearning/Learning to Ultralearn, Principle 9 - Experimentation.md",
     "Ultralearning/Learning to Ultralearn, Principle 5 - Retrieval.md",
     "Ultralearning/Learning to Ultralearn, Principle 4 - Drill.md",
     "Ultralearning/Learning to Ultralearn, Principle 3 - Directness.md",
     "Thriving on Overload/Self Evaluation based on the 5th Power - The Power Of Synthesis.md",
     "Thriving on Overload/Self Evaluation based on the 4th Power - The Power Of Attention.md",
     "Ultralearning/Learning to Ultralearn, Principle 8 - Intuition.md",
-    "Ultralearning/Learning to Ultralearn - Metalearning.md",
-    "Thriving on Overload/Self Evaluation Based On The Power of Filtering.md",
-    "Thriving on Overload/Self Evaluation Using The Power of Framing.md",
-    "Thriving on Overload/Self Evaluation Around the Power of Purpose Based on the Book Thriving on Overload.md"
+    "Ultralearning/Learning to Ultralearn - Metalearning.md"
   ]
 }
