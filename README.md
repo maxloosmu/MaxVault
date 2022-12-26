@@ -1,6 +1,6 @@
 ## Notes building with some Obsidian help for self-improvement to simplify work and life, and be ready for an uncertain future.
 ### Date: Posts Count
-- 2022-12: 16
+- 2022-12: 17
 - 2022-11: 8
 - 2022-10: 3
 - 2022-09: 1
@@ -8,9 +8,9 @@
 - 2022-07: 2
 
 ### Tag: Posts Count
-- self-improvement: 18
-- learning: 14
-- self-discovery: 10
+- self-improvement: 19
+- learning: 15
+- self-discovery: 11
 - programming: 7
 - life: 6
 - work: 6
@@ -25,25 +25,25 @@
 - mental-models: 3
 - organising: 3
 - time-management: 3
+- attention: 2
 - blogging: 2
 - christianity: 2
 - contentment: 2
 - decision-making: 2
 - education: 2
+- focusing: 2
 - frameworks: 2
 - skills: 2
 - technology: 2
 - values: 2
 - Feynman-Technique: 1
 - Haskell: 1
-- attention: 1
 - career: 1
 - choices: 1
 - comprehension: 1
 - decluttering: 1
 - experimentation: 1
 - feedback: 1
-- focusing: 1
 - functional-programming: 1
 - geopolitics: 1
 - git: 1
@@ -130,6 +130,8 @@
     + 2022-12, creativity, decision-making, mental-models, self-improvement, synthesis
 
 #### Ultralearning
+* [Learning to Ultralearn, Principle 2 - Focus](https://github.com/maxloosmu/MaxVault/blob/main/Ultralearning/Learning%20to%20Ultralearn%2C%20Principle%202%20-%20Focus.md)
+    + 2022-12, attention, focusing, learning, self-discovery, self-improvement
 * [Learning to Ultralearn, Principle 3 - Directness](https://github.com/maxloosmu/MaxVault/blob/main/Ultralearning/Learning%20to%20Ultralearn%2C%20Principle%203%20-%20Directness.md)
     + 2022-12, blogging, learning, self-improvement
 * [Learning to Ultralearn, Principle 4 - Drill](https://github.com/maxloosmu/MaxVault/blob/main/Ultralearning/Learning%20to%20Ultralearn%2C%20Principle%204%20-%20Drill.md)

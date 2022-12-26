@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "40ce664b0025b9e1",
+        "id": "62c2eb413a1b25d2",
         "type": "tabs",
         "children": [
           {
-            "id": "38b92b2052e555be",
+            "id": "1d45a9cbc4bc14e5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -147,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38b92b2052e555be",
+  "active": "1d45a9cbc4bc14e5",
   "lastOpenFiles": [
+    "Ultralearning/Learning to Ultralearn, Principle 2 - Focus.md",
     "Ultralearning/Learning to Ultralearn, Principle 7 - Retention.md",
     "Ultralearning/Learning to Ultralearn, Principle 6 - Feedback.md",
     "Ultralearning/Learning to Ultralearn, Principle 9 - Experimentation.md",
@@ -157,7 +158,6 @@
     "Ultralearning/Learning to Ultralearn, Principle 3 - Directness.md",
     "Thriving on Overload/Self Evaluation based on the 5th Power - The Power Of Synthesis.md",
     "Thriving on Overload/Self Evaluation based on the 4th Power - The Power Of Attention.md",
-    "Ultralearning/Learning to Ultralearn, Principle 8 - Intuition.md",
-    "Ultralearning/Learning to Ultralearn - Metalearning.md"
+    "Ultralearning/Learning to Ultralearn, Principle 8 - Intuition.md"
   ]
 }
