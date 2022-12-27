@@ -1,6 +1,6 @@
 ## Notes building with some Obsidian help for self-improvement to simplify work and life, and be ready for an uncertain future.
 ### Date: Posts Count
-- 2022-12: 17
+- 2022-12: 18
 - 2022-11: 8
 - 2022-10: 3
 - 2022-09: 1
@@ -8,8 +8,8 @@
 - 2022-07: 2
 
 ### Tag: Posts Count
-- self-improvement: 19
-- learning: 15
+- self-improvement: 20
+- learning: 16
 - self-discovery: 11
 - programming: 7
 - life: 6
@@ -21,6 +21,7 @@
 - goals: 4
 - habits: 4
 - web-development: 4
+- frameworks: 3
 - innovation: 3
 - mental-models: 3
 - organising: 3
@@ -32,18 +33,19 @@
 - decision-making: 2
 - education: 2
 - focusing: 2
-- frameworks: 2
 - skills: 2
 - technology: 2
 - values: 2
 - Feynman-Technique: 1
 - Haskell: 1
 - career: 1
+- causality: 1
 - choices: 1
 - comprehension: 1
 - decluttering: 1
 - experimentation: 1
 - feedback: 1
+- framing: 1
 - functional-programming: 1
 - geopolitics: 1
 - git: 1
@@ -90,6 +92,10 @@
     + 2022-08, christianity, creativity, innovation, insight, life, programming, self-improvement
 * [Skills Building, My Progress as of Aug 2022](https://github.com/maxloosmu/MaxVault/blob/main/Skills%20Building%2C%20My%20Progress%20as%20of%20Aug%202022.md)
     + 2022-08, habits, learning, self-discovery, self-improvement, skills, work
+
+#### Framers
+* [Learning About Framing - Causality](https://github.com/maxloosmu/MaxVault/blob/main/Framers/Learning%20About%20Framing%20-%20Causality.md)
+    + 2022-12, causality, frameworks, framing, learning, self-improvement
 
 #### S'pore
 * [Progress is Only Evolution in Disguise, Rooted in Reproduction. Reflections as a Disabled Christian and Responsible Democrat](https://github.com/maxloosmu/MaxVault/blob/main/S'pore/Progress%20is%20Only%20Evolution%20in%20Disguise%2C%20Rooted%20in%20Reproduction.%20Reflections%20as%20a%20Disabled%20Christian%20and%20Responsible%20Democrat.md)

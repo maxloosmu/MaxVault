@@ -1,5 +1,5 @@
-self-improvement: 19
-learning: 15
+self-improvement: 20
+learning: 16
 self-discovery: 11
 programming: 7
 life: 6
@@ -11,6 +11,7 @@ creativity: 4
 goals: 4
 habits: 4
 web-development: 4
+frameworks: 3
 innovation: 3
 mental-models: 3
 organising: 3
@@ -22,18 +23,19 @@ contentment: 2
 decision-making: 2
 education: 2
 focusing: 2
-frameworks: 2
 skills: 2
 technology: 2
 values: 2
 Feynman-Technique: 1
 Haskell: 1
 career: 1
+causality: 1
 choices: 1
 comprehension: 1
 decluttering: 1
 experimentation: 1
 feedback: 1
+framing: 1
 functional-programming: 1
 geopolitics: 1
 git: 1
