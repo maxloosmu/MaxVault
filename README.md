@@ -1,5 +1,6 @@
 ## Notes building with some Obsidian help for self-improvement to simplify work and life, and be ready for an uncertain future.
 ### Date: Posts Count
+- 2023-01: 4
 - 2022-12: 18
 - 2022-11: 8
 - 2022-10: 3
@@ -8,20 +9,21 @@
 - 2022-07: 2
 
 ### Tag: Posts Count
-- self-improvement: 20
-- learning: 16
-- self-discovery: 11
-- programming: 7
+- self-improvement: 23
+- learning: 19
+- self-discovery: 12
+- programming: 9
+- frameworks: 6
 - life: 6
 - work: 6
+- Singapore: 5
+- habits: 5
 - memory: 5
 - purpose: 5
-- Singapore: 4
 - creativity: 4
+- framing: 4
 - goals: 4
-- habits: 4
 - web-development: 4
-- frameworks: 3
 - innovation: 3
 - mental-models: 3
 - organising: 3
@@ -42,10 +44,11 @@
 - causality: 1
 - choices: 1
 - comprehension: 1
+- constraints: 1
+- counterfactuals: 1
 - decluttering: 1
 - experimentation: 1
 - feedback: 1
-- framing: 1
 - functional-programming: 1
 - geopolitics: 1
 - git: 1
@@ -57,9 +60,11 @@
 - population: 1
 - problem-solving: 1
 - productivity: 1
+- reframing: 1
 - religion: 1
 - research: 1
 - routines: 1
+- simplicity: 1
 - social-media: 1
 - society: 1
 - strengths: 1
@@ -70,6 +75,8 @@
 - thinking: 1
 
 ### Blog Posts
+* [Writing Clean and Simple Code](https://github.com/maxloosmu/MaxVault/blob/main/Writing%20Clean%20and%20Simple%20Code.md)
+    + 2023-01, habits, programming, simplicity
 * [Applying Some Basic Minimalism in my Life](https://github.com/maxloosmu/MaxVault/blob/main/Applying%20Some%20Basic%20Minimalism%20in%20my%20Life.md)
     + 2022-11, contentment, decluttering, life, organising, purpose, values
 * [Learning the Skill of Creativity with Systematic Inventive Thinking (SIT) and Then Analysing its Applicability in Programming](https://github.com/maxloosmu/MaxVault/blob/main/Learning%20the%20Skill%20of%20Creativity%20with%20Systematic%20Inventive%20Thinking%20(SIT)%20and%20Then%20Analysing%20its%20Applicability%20in%20Programming.md)
@@ -94,6 +101,12 @@
     + 2022-08, habits, learning, self-discovery, self-improvement, skills, work
 
 #### Framers
+* [Learning About Framing - Constraints](https://github.com/maxloosmu/MaxVault/blob/main/Framers/Learning%20About%20Framing%20-%20Constraints.md)
+    + 2023-01, constraints, frameworks, framing, learning, self-improvement
+* [Learning About Framing - Counterfactuals](https://github.com/maxloosmu/MaxVault/blob/main/Framers/Learning%20About%20Framing%20-%20Counterfactuals.md)
+    + 2023-01, counterfactuals, frameworks, framing, learning, self-improvement
+* [Learning About Framing - Reframing](https://github.com/maxloosmu/MaxVault/blob/main/Framers/Learning%20About%20Framing%20-%20Reframing.md)
+    + 2023-01, Singapore, frameworks, framing, learning, programming, reframing, self-discovery, self-improvement
 * [Learning About Framing - Causality](https://github.com/maxloosmu/MaxVault/blob/main/Framers/Learning%20About%20Framing%20-%20Causality.md)
     + 2022-12, causality, frameworks, framing, learning, self-improvement
 

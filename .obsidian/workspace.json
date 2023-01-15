@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8b0ad19c297bdcd1",
+        "id": "6b0e4f317d0dc955",
         "type": "tabs",
         "children": [
           {
-            "id": "a6ff2e70a38535f7",
+            "id": "177130b1f2243855",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -147,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6ff2e70a38535f7",
+  "active": "177130b1f2243855",
   "lastOpenFiles": [
+    "Writing Clean and Simple Code.md",
+    "Framers/Learning About Framing - Reframing.md",
+    "Framers/Learning About Framing - Constraints.md",
+    "Framers/Learning About Framing - Counterfactuals.md",
     "Framers/Learning About Framing - Causality.md",
     "Ultralearning/Learning to Ultralearn, Principle 2 - Focus.md",
     "Ultralearning/Learning to Ultralearn, Principle 7 - Retention.md",
     "Ultralearning/Learning to Ultralearn, Principle 6 - Feedback.md",
     "Ultralearning/Learning to Ultralearn, Principle 9 - Experimentation.md",
-    "Ultralearning/Learning to Ultralearn, Principle 5 - Retrieval.md",
-    "Ultralearning/Learning to Ultralearn, Principle 4 - Drill.md",
-    "Ultralearning/Learning to Ultralearn, Principle 3 - Directness.md",
-    "Thriving on Overload/Self Evaluation based on the 5th Power - The Power Of Synthesis.md",
-    "Thriving on Overload/Self Evaluation based on the 4th Power - The Power Of Attention.md"
+    "Ultralearning/Learning to Ultralearn, Principle 5 - Retrieval.md"
   ]
 }
